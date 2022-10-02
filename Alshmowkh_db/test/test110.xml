@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?><roots>
+  <root id="1" type="trilateral" value="طبز">
+    <unaugmented>
+      <conjuagtion id="1">
+        <past>
+          <term value="طَبَزَ"/>
+        </past>
+        <present>
+          <term value="يَطْبُزُ"/>
+        </present>
+        <verbConjugation>
+          <activeVerb>
+            <past>
+              <term dediacritic="طبزت" pronoun="أنا" value="طَبَزْتُ"/>
+              <term dediacritic="طبزنا" pronoun="نحن" value="طَبَزْنَا"/>
+              <term dediacritic="طبزت" pronoun="أنتَ" value="طَبَزْتَ"/>
+              <term dediacritic="طبزت" pronoun="أنتِ" value="طَبَزْتِ"/>
+              <term dediacritic="طبزتما" pronoun="أنتما" value="طَبَزْتُمَا"/>
+              <term dediacritic="طبزتم" pronoun="أنتم" value="طَبَزْتُمْ"/>
+              <term dediacritic="طبزتن" pronoun="أنتنُّ" value="طَبَزْتُنَّ"/>
+              <term dediacritic="طبز" pronoun="هو" value="طَبَزَ"/>
+              <term dediacritic="طبزت" pronoun="هي" value="طَبَزَتْ"/>
+              <term dediacritic="طبزا" pronoun="هما" value="طَبَزَا"/>
+              <term dediacritic="طبزتا" pronoun="هما2" value="طَبَزَتَا"/>
+              <term dediacritic="طبزوا" pronoun="هم" value="طَبَزُوا"/>
+              <term dediacritic="طبزن" pronoun="هنُّ" value="طَبَزْنَ"/>
+            </past>
+            <nominativePresent>
+              <term dediacritic="أطبز" pronoun="أنا" value="أَطْبُزُ"/>
+              <term dediacritic="نطبز" pronoun="نحن" value="نَطْبُزُ"/>
+              <term dediacritic="تطبز" pronoun="أنتَ" value="تَطْبُزُ"/>
+              <term dediacritic="تطبزين" pronoun="أنتِ" value="تَطْبُزِينَ"/>
+              <term dediacritic="تطبزان" pronoun="أنتما" value="تَطْبُزَانِ"/>
+              <term dediacritic="تطبزون" pronoun="أنتم" value="تَطْبُزُونَ"/>
+              <term dediacritic="تطبزن" pronoun="أنتنُّ" value="تَطْبُزْنَ"/>
+              <term dediacritic="يطبز" pronoun="هو" value="يَطْبُزُ"/>
+              <term dediacritic="تطبز" pronoun="هي" value="تَطْبُزُ"/>
+              <term dediacritic="يطبزان" pronoun="هما" value="يَطْبُزَانِ"/>
+              <term dediacritic="تطبزان" pronoun="هما2" value="تَطْبُزَانِ"/>
+              <term dediacritic="يطبزون" pronoun="هم" value="يَطْبُزُونَ"/>
+              <term dediacritic="يطبزن" pronoun="هنُّ" value="يَطْبُزْنَ"/>
+            </nominativePresent>
+            <accusativePresent>
+              <term dediacritic="أطبز" pronoun="أنا" value="أَطْبُزَ"/>
+              <term dediacritic="نطبز" pronoun="نحن" value="نَطْبُزَ"/>
+              <term dediacritic="تطبز" pronoun="أنتَ" value="تَطْبُزَ"/>
+              <term dediacritic="تطبزي" pronoun="أنتِ" value="تَطْبُزِي"/>
+              <term dediacritic="تطبزا" pronoun="أنتما" value="تَطْبُزَا"/>
+              <term dediacritic="تطبزوا" pronoun="أنتم" value="تَطْبُزُوا"/>
+              <term dediacritic="تطبزن" pronoun="أنتنُّ" value="تَطْبُزْنَ"/>
+              <term dediacritic="يطبز" pronoun="هو" value="يَطْبُزَ"/>
+              <term dediacritic="تطبز" pronoun="هي" value="تَطْبُزَ"/>
+              <term dediacritic="يطبزا" pronoun="هما" value="يَطْبُزَا"/>
+              <term dediacritic="تطبزا" pronoun="هما2" value="تَطْبُزَا"/>
+              <term dediacritic="يطبزوا" pronoun="هم" value="يَطْبُزُوا"/>
+              <term dediacritic="يطبزن" pronoun="هنُّ" value="يَطْبُزْنَ"/>
+            </accusativePresent>
+            <jussitivePresent>
+              <term dediacritic="أطبز" pronoun="أنا" value="أَطْبُزْ"/>
+              <term dediacritic="نطبز" pronoun="نحن" value="نَطْبُزْ"/>
+              <term dediacritic="تطبز" pronoun="أنتَ" value="تَطْبُزْ"/>
+              <term dediacritic="تطبزي" pronoun="أنتِ" value="تَطْبُزِي"/>
+              <term dediacritic="تطبزا" pronoun="أنتما" value="تَطْبُزَا"/>
+              <term dediacritic="تطبزوا" pronoun="أنتم" value="تَطْبُزُوا"/>
+              <term dediacritic="تطبزن" pronoun="أنتنُّ" value="تَطْبُزْنَ"/>
+              <term dediacritic="يطبز" pronoun="هو" value="يَطْبُزْ"/>
+              <term dediacritic="تطبز" pronoun="هي" value="تَطْبُزْ"/>
+              <term dediacritic="يطبزا" pronoun="هما" value="يَطْبُزَا"/>
+              <term dediacritic="تطبزا" pronoun="هما2" value="تَطْبُزَا"/>
+              <term dediacritic="يطبزوا" pronoun="هم" value="يَطْبُزُوا"/>
+              <term dediacritic="يطبزن" pronoun="هنُّ" value="يَطْبُزْنَ"/>
+            </jussitivePresent>
+            <emphasize>
+              <term dediacritic="أطبزن" pronoun="أنا" value="أَطْبُزَنَّ"/>
+              <term dediacritic="نطبزن" pronoun="نحن" value="نَطْبُزَنَّ"/>
+              <term dediacritic="تطبزن" pronoun="أنتَ" value="تَطْبُزَنَّ"/>
+              <term dediacritic="تطبزن" pronoun="أنتِ" value="تَطْبُزِنَّ"/>
+              <term dediacritic="تطبزان" pronoun="أنتما" value="تَطْبُزَانِّ"/>
+              <term dediacritic="تطبزن" pronoun="أنتم" value="تَطْبُزُنَّ"/>
+              <term dediacritic="تطبزنان" pronoun="أنتنُّ" value="تَطْبُزْنَانِّ"/>
+              <term dediacritic="يطبزن" pronoun="هو" value="يَطْبُزَنَّ"/>
+              <term dediacritic="تطبزن" pronoun="هي" value="تَطْبُزَنَّ"/>
+              <term dediacritic="يطبزان" pronoun="هما" value="يَطْبُزَانِّ"/>
+              <term dediacritic="تطبزان" pronoun="هما2" value="تَطْبُزَانِّ"/>
+              <term dediacritic="يطبزن" pronoun="هم" value="يَطْبُزُنَّ"/>
+              <term dediacritic="يطبزنان" pronoun="هنُّ" value="يَطْبُزْنَانِّ"/>
+            </emphasize>
+            <imperative>
+              <term dediacritic="اطبز" pronoun="أنتَ" value="اطْبُزْ"/>
+              <term dediacritic="اطبزي" pronoun="أنتِ" value="اطْبُزِي"/>
+              <term dediacritic="اطبزا" pronoun="أنتما" value="اطْبُزَا"/>
+              <term dediacritic="اطبزوا" pronoun="أنتم" value="اطْبُزُوا"/>
+              <term dediacritic="اطبزن" pronoun="أنتنُّ" value="اطْبُزْنَ"/>
+            </imperative>
+            <emphEmperative>
+              <term dediacritic="اطبزن" pronoun="أنتَ" value="اطْبُزَنَّ"/>
+              <term dediacritic="اطبزن" pronoun="أنتِ" value="اطْبُزِنَّ"/>
+              <term dediacritic="اطبزان" pronoun="أنتما" value="اطْبُزَانِّ"/>
+              <term dediacritic="اطبزن" pronoun="أنتم" value="اطْبُزُنَّ"/>
+              <term dediacritic="اطبزنان" pronoun="أنتنُّ" value="اطْبُزْنَانِّ"/>
+            </emphEmperative>
+          </activeVerb>
+          <passiveVerb>
+            <past>
+              <term dediacritic="طبزت" pronoun="أنا" value="طُبِزْتُ"/>
+              <term dediacritic="طبزنا" pronoun="نحن" value="طُبِزْنَا"/>
+              <term dediacritic="طبزت" pronoun="أنتَ" value="طُبِزْتَ"/>
+              <term dediacritic="طبزت" pronoun="أنتِ" value="طُبِزْتِ"/>
+              <term dediacritic="طبزتما" pronoun="أنتما" value="طُبِزْتُمَا"/>
+              <term dediacritic="طبزتم" pronoun="أنتم" value="طُبِزْتُمْ"/>
+              <term dediacritic="طبزتن" pronoun="أنتنُّ" value="طُبِزْتُنَّ"/>
+              <term dediacritic="طبز" pronoun="هو" value="طُبِزَ"/>
+              <term dediacritic="طبزت" pronoun="هي" value="طُبِزَتْ"/>
+              <term dediacritic="طبزا" pronoun="هما" value="طُبِزَا"/>
+              <term dediacritic="طبزتا" pronoun="هما2" value="طُبِزَتَا"/>
+              <term dediacritic="طبزوا" pronoun="هم" value="طُبِزُوا"/>
+              <term dediacritic="طبزن" pronoun="هنُّ" value="طُبِزْنَ"/>
+            </past>
+            <nominativePresent>
+              <term dediacritic="أطبز" pronoun="أنا" value="أُطْبَزُ"/>
+              <term dediacritic="نطبز" pronoun="نحن" value="نُطْبَزُ"/>
+              <term dediacritic="تطبز" pronoun="أنتَ" value="تُطْبَزُ"/>
+              <term dediacritic="تطبزين" pronoun="أنتِ" value="تُطْبَزِينَ"/>
+              <term dediacritic="تطبزان" pronoun="أنتما" value="تُطْبَزَانِ"/>
+              <term dediacritic="تطبزون" pronoun="أنتم" value="تُطْبَزُونَ"/>
+              <term dediacritic="تطبزن" pronoun="أنتنُّ" value="تُطْبَزْنَ"/>
+              <term dediacritic="يطبز" pronoun="هو" value="يُطْبَزُ"/>
+              <term dediacritic="تطبز" pronoun="هي" value="تُطْبَزُ"/>
+              <term dediacritic="يطبزان" pronoun="هما" value="يُطْبَزَانِ"/>
+              <term dediacritic="تطبزان" pronoun="هما2" value="تُطْبَزَانِ"/>
+              <term dediacritic="يطبزون" pronoun="هم" value="يُطْبَزُونَ"/>
+              <term dediacritic="يطبزن" pronoun="هنُّ" value="يُطْبَزْنَ"/>
+            </nominativePresent>
+            <accusativePresent>
+              <term dediacritic="أطبز" pronoun="أنا" value="أُطْبَزَ"/>
+              <term dediacritic="نطبز" pronoun="نحن" value="نُطْبَزَ"/>
+              <term dediacritic="تطبز" pronoun="أنتَ" value="تُطْبَزَ"/>
+              <term dediacritic="تطبزي" pronoun="أنتِ" value="تُطْبَزِي"/>
+              <term dediacritic="تطبزا" pronoun="أنتما" value="تُطْبَزَا"/>
+              <term dediacritic="تطبزوا" pronoun="أنتم" value="تُطْبَزُوا"/>
+              <term dediacritic="تطبزن" pronoun="أنتنُّ" value="تُطْبَزْنَ"/>
+              <term dediacritic="يطبز" pronoun="هو" value="يُطْبَزَ"/>
+              <term dediacritic="تطبز" pronoun="هي" value="تُطْبَزَ"/>
+              <term dediacritic="يطبزا" pronoun="هما" value="يُطْبَزَا"/>
+              <term dediacritic="تطبزا" pronoun="هما2" value="تُطْبَزَا"/>
+              <term dediacritic="يطبزوا" pronoun="هم" value="يُطْبَزُوا"/>
+              <term dediacritic="يطبزن" pronoun="هنُّ" value="يُطْبَزْنَ"/>
+            </accusativePresent>
+            <jussitivePresent>
+              <term dediacritic="أطبز" pronoun="أنا" value="أُطْبَزْ"/>
+              <term dediacritic="نطبز" pronoun="نحن" value="نُطْبَزْ"/>
+              <term dediacritic="تطبز" pronoun="أنتَ" value="تُطْبَزْ"/>
+              <term dediacritic="تطبزي" pronoun="أنتِ" value="تُطْبَزِي"/>
+              <term dediacritic="تطبزا" pronoun="أنتما" value="تُطْبَزَا"/>
+              <term dediacritic="تطبزوا" pronoun="أنتم" value="تُطْبَزُوا"/>
+              <term dediacritic="تطبزن" pronoun="أنتنُّ" value="تُطْبَزْنَ"/>
+              <term dediacritic="يطبز" pronoun="هو" value="يُطْبَزْ"/>
+              <term dediacritic="تطبز" pronoun="هي" value="تُطْبَزْ"/>
+              <term dediacritic="يطبزا" pronoun="هما" value="يُطْبَزَا"/>
+              <term dediacritic="تطبزا" pronoun="هما2" value="تُطْبَزَا"/>
+              <term dediacritic="يطبزوا" pronoun="هم" value="يُطْبَزُوا"/>
+              <term dediacritic="يطبزن" pronoun="هنُّ" value="يُطْبَزْنَ"/>
+            </jussitivePresent>
+            <emphasize>
+              <term dediacritic="أطبزن" pronoun="أنا" value="أُطْبَزَنَّ"/>
+              <term dediacritic="نطبزن" pronoun="نحن" value="نُطْبَزَنَّ"/>
+              <term dediacritic="تطبزن" pronoun="أنتَ" value="تُطْبَزَنَّ"/>
+              <term dediacritic="تطبزن" pronoun="أنتِ" value="تُطْبَزِنَّ"/>
+              <term dediacritic="تطبزان" pronoun="أنتما" value="تُطْبَزَانِّ"/>
+              <term dediacritic="تطبزن" pronoun="أنتم" value="تُطْبَزُنَّ"/>
+              <term dediacritic="تطبزنان" pronoun="أنتنُّ" value="تُطْبَزْنَانِّ"/>
+              <term dediacritic="يطبزن" pronoun="هو" value="يُطْبَزَنَّ"/>
+              <term dediacritic="تطبزن" pronoun="هي" value="تُطْبَزَنَّ"/>
+              <term dediacritic="يطبزان" pronoun="هما" value="يُطْبَزَانِّ"/>
+              <term dediacritic="تطبزان" pronoun="هما2" value="تُطْبَزَانِّ"/>
+              <term dediacritic="يطبزن" pronoun="هم" value="يُطْبَزُنَّ"/>
+              <term dediacritic="يطبزنان" pronoun="هنُّ" value="يُطْبَزْنَانِّ"/>
+            </emphasize>
+          </passiveVerb>
+        </verbConjugation>
+        <nounDerviation>
+          <subject>
+            <formula value="فَاعِل">
+              <indefinite>
+                <term case="nominative" dediacritic="طابز" number="single" sex="male" value="طَابِزٌ"/>
+                <term case="nominative" dediacritic="طابزة" number="single" sex="female" value="طَابِزَةٌ"/>
+                <term case="nominative" dediacritic="طابزان" number="dual" sex="male" value="طَابِزَانِ"/>
+                <term case="nominative" dediacritic="طابزتان" number="dual" sex="female" value="طَابِزَتَانِ"/>
+                <term case="nominative" dediacritic="طابزون" number="plural" sex="male" value="طَابِزُونَ"/>
+                <term case="nominative" dediacritic="طابزات" number="plural" sex="female" value="طَابِزَاتٌ"/>
+                <term case="accussative" dediacritic="طابزا" number="single" sex="male" value="طَابِزًا"/>
+                <term case="accussative" dediacritic="طابزة" number="single" sex="female" value="طَابِزَةً"/>
+                <term case="accussative" dediacritic="طابزين" number="dual" sex="male" value="طَابِزَيْنِ"/>
+                <term case="accussative" dediacritic="طابزتين" number="dual" sex="female" value="طَابِزَتَيْنِ"/>
+                <term case="accussative" dediacritic="طابزين" number="plural" sex="male" value="طَابِزِينَ"/>
+                <term case="accussative" dediacritic="طابزات" number="plural" sex="female" value="طَابِزَاتٍ"/>
+                <term case="jussitive" dediacritic="طابز" number="single" sex="male" value="طَابِزٍ"/>
+                <term case="jussitive" dediacritic="طابزة" number="single" sex="female" value="طَابِزَةٍ"/>
+                <term case="jussitive" dediacritic="طابزين" number="dual" sex="male" value="طَابِزَيْنِ"/>
+                <term case="jussitive" dediacritic="طابزتين" number="dual" sex="female" value="طَابِزَتَيْنِ"/>
+                <term case="jussitive" dediacritic="طابزين" number="plural" sex="male" value="طَابِزِينَ"/>
+                <term case="jussitive" dediacritic="طابزات" number="plural" sex="female" value="طَابِزَاتٍ"/>
+              </indefinite>
+              <definite>
+                <term case="nominative" dediacritic="الطابز" number="single" sex="male" value="الطَّابِزُ"/>
+                <term case="nominative" dediacritic="الطابزة" number="single" sex="female" value="الطَّابِزَةُ"/>
+                <term case="nominative" dediacritic="الطابزان" number="dual" sex="male" value="الطَّابِزَانِ"/>
+                <term case="nominative" dediacritic="الطابزتان" number="dual" sex="female" value="الطَّابِزَتَانِ"/>
+                <term case="nominative" dediacritic="الطابزون" number="plural" sex="male" value="الطَّابِزُونَ"/>
+                <term case="nominative" dediacritic="الطابزات" number="plural" sex="female" value="الطَّابِزَاتُ"/>
+                <term case="accussative" dediacritic="الطابز" number="single" sex="male" value="الطَّابِزَ"/>
+                <term case="accussative" dediacritic="الطابزة" number="single" sex="female" value="الطَّابِزَةَ"/>
+                <term case="accussative" dediacritic="الطابزين" number="dual" sex="male" value="الطَّابِزَيْنِ"/>
+                <term case="accussative" dediacritic="الطابزتين" number="dual" sex="female" value="الطَّابِزَتَيْنِ"/>
+                <term case="accussative" dediacritic="الطابزين" number="plural" sex="male" value="الطَّابِزِينَ"/>
+                <term case="accussative" dediacritic="الطابزات" number="plural" sex="female" value="الطَّابِزَاتِ"/>
+                <term case="jussitive" dediacritic="الطابز" number="single" sex="male" value="الطَّابِزِ"/>
+                <term case="jussitive" dediacritic="الطابزة" number="single" sex="female" value="الطَّابِزَةِ"/>
+                <term case="jussitive" dediacritic="الطابزين" number="dual" sex="male" value="الطَّابِزَيْنِ"/>
+                <term case="jussitive" dediacritic="الطابزتين" number="dual" sex="female" value="الطَّابِزَتَيْنِ"/>
+                <term case="jussitive" dediacritic="الطابزين" number="plural" sex="male" value="الطَّابِزِينَ"/>
+                <term case="jussitive" dediacritic="الطابزات" number="plural" sex="female" value="الطَّابِزَاتِ"/>
+              </definite>
+              <annexed>
+                <term case="nominative" dediacritic="طابز" number="single" sex="male" value="طَابِزُ"/>
+                <term case="nominative" dediacritic="طابزة" number="single" sex="female" value="طَابِزَةُ"/>
+                <term case="nominative" dediacritic="طابزا" number="dual" sex="male" value="طَابِزَا"/>
+                <term case="nominative" dediacritic="طابزتا" number="dual" sex="female" value="طَابِزَتَا"/>
+                <term case="nominative" dediacritic="طابزو" number="plural" sex="male" value="طَابِزُو"/>
+                <term case="nominative" dediacritic="طابزات" number="plural" sex="female" value="طَابِزَاتُ"/>
+                <term case="accussative" dediacritic="طابز" number="single" sex="male" value="طَابِزَ"/>
+                <term case="accussative" dediacritic="طابزة" number="single" sex="female" value="طَابِزَةَ"/>
+                <term case="accussative" dediacritic="طابزي" number="dual" sex="male" value="طَابِزَيْ"/>
+                <term case="accussative" dediacritic="طابزتي" number="dual" sex="female" value="طَابِزَتَيْ"/>
+                <term case="accussative" dediacritic="طابزي" number="plural" sex="male" value="طَابِزِي"/>
+                <term case="accussative" dediacritic="طابزات" number="plural" sex="female" value="طَابِزَاتِ"/>
+                <term case="jussitive" dediacritic="طابز" number="single" sex="male" value="طَابِزِ"/>
+                <term case="jussitive" dediacritic="طابزة" number="single" sex="female" value="طَابِزَةِ"/>
+                <term case="jussitive" dediacritic="طابزي" number="dual" sex="male" value="طَابِزَيْ"/>
+                <term case="jussitive" dediacritic="طابزتي" number="dual" sex="female" value="طَابِزَتَيْ"/>
+                <term case="jussitive" dediacritic="طابزي" number="plural" sex="male" value="طَابِزِي"/>
+                <term case="jussitive" dediacritic="طابزات" number="plural" sex="female" value="طَابِزَاتِ"/>
+              </annexed>
+            </formula>
+          </subject>
+          <object>
+            <formula value="مَفْعُول">
+              <indefinite>
+                <term case="nominative" dediacritic="مطبوز" number="single" sex="male" value="مَطْبُوزُ"/>
+                <term case="nominative" dediacritic="مطبوزة" number="single" sex="female" value="مَطْبُوزَةُ"/>
+                <term case="nominative" dediacritic="مطبوزا" number="dual" sex="male" value="مَطْبُوزَا"/>
+                <term case="nominative" dediacritic="مطبوزتا" number="dual" sex="female" value="مَطْبُوزَتَا"/>
+                <term case="nominative" dediacritic="مطبوزو" number="plural" sex="male" value="مَطْبُوزُو"/>
+                <term case="nominative" dediacritic="مطبوزات" number="plural" sex="female" value="مَطْبُوزَاتُ"/>
+                <term case="accussative" dediacritic="مطبوز" number="single" sex="male" value="مَطْبُوزَ"/>
+                <term case="accussative" dediacritic="مطبوزة" number="single" sex="female" value="مَطْبُوزَةَ"/>
+                <term case="accussative" dediacritic="مطبوزي" number="dual" sex="male" value="مَطْبُوزَيْ"/>
+                <term case="accussative" dediacritic="مطبوزتي" number="dual" sex="female" value="مَطْبُوزَتَيْ"/>
+                <term case="accussative" dediacritic="مطبوزي" number="plural" sex="male" value="مَطْبُوزِي"/>
+                <term case="accussative" dediacritic="مطبوزات" number="plural" sex="female" value="مَطْبُوزَاتِ"/>
+                <term case="jussitive" dediacritic="مطبوز" number="single" sex="male" value="مَطْبُوزِ"/>
+                <term case="jussitive" dediacritic="مطبوزة" number="single" sex="female" value="مَطْبُوزَةِ"/>
+                <term case="jussitive" dediacritic="مطبوزي" number="dual" sex="male" value="مَطْبُوزَيْ"/>
+                <term case="jussitive" dediacritic="مطبوزتي" number="dual" sex="female" value="مَطْبُوزَتَيْ"/>
+                <term case="jussitive" dediacritic="مطبوزي" number="plural" sex="male" value="مَطْبُوزِي"/>
+                <term case="jussitive" dediacritic="مطبوزات" number="plural" sex="female" value="مَطْبُوزَاتِ"/>
+              </indefinite>
+              <definite>
+                <term case="nominative" dediacritic="المطبوز" number="single" sex="male" value="المَطْبُوزُ"/>
+                <term case="nominative" dediacritic="المطبوزة" number="single" sex="female" value="المَطْبُوزَةُ"/>
+                <term case="nominative" dediacritic="المطبوزان" number="dual" sex="male" value="المَطْبُوزَانِ"/>
+                <term case="nominative" dediacritic="المطبوزتان" number="dual" sex="female" value="المَطْبُوزَتَانِ"/>
+                <term case="nominative" dediacritic="المطبوزون" number="plural" sex="male" value="المَطْبُوزُونَ"/>
+                <term case="nominative" dediacritic="المطبوزات" number="plural" sex="female" value="المَطْبُوزَاتُ"/>
+                <term case="accussative" dediacritic="المطبوز" number="single" sex="male" value="المَطْبُوزَ"/>
+                <term case="accussative" dediacritic="المطبوزة" number="single" sex="female" value="المَطْبُوزَةَ"/>
+                <term case="accussative" dediacritic="المطبوزين" number="dual" sex="male" value="المَطْبُوزَيْنِ"/>
+                <term case="accussative" dediacritic="المطبوزتين" number="dual" sex="female" value="المَطْبُوزَتَيْنِ"/>
+                <term case="accussative" dediacritic="المطبوزين" number="plural" sex="male" value="المَطْبُوزِينَ"/>
+                <term case="accussative" dediacritic="المطبوزات" number="plural" sex="female" value="المَطْبُوزَاتِ"/>
+                <term case="jussitive" dediacritic="المطبوز" number="single" sex="male" value="المَطْبُوزِ"/>
+                <term case="jussitive" dediacritic="المطبوزة" number="single" sex="female" value="المَطْبُوزَةِ"/>
+                <term case="jussitive" dediacritic="المطبوزين" number="dual" sex="male" value="المَطْبُوزَيْنِ"/>
+                <term case="jussitive" dediacritic="المطبوزتين" number="dual" sex="female" value="المَطْبُوزَتَيْنِ"/>
+                <term case="jussitive" dediacritic="المطبوزين" number="plural" sex="male" value="المَطْبُوزِينَ"/>
+                <term case="jussitive" dediacritic="المطبوزات" number="plural" sex="female" value="المَطْبُوزَاتِ"/>
+              </definite>
+              <annexed>
+                <term case="nominative" dediacritic="مطبوز" number="single" sex="male" value="مَطْبُوزُ"/>
+                <term case="nominative" dediacritic="مطبوزة" number="single" sex="female" value="مَطْبُوزَةُ"/>
+                <term case="nominative" dediacritic="مطبوزا" number="dual" sex="male" value="مَطْبُوزَا"/>
+                <term case="nominative" dediacritic="مطبوزتا" number="dual" sex="female" value="مَطْبُوزَتَا"/>
+                <term case="nominative" dediacritic="مطبوزو" number="plural" sex="male" value="مَطْبُوزُو"/>
+                <term case="nominative" dediacritic="مطبوزات" number="plural" sex="female" value="مَطْبُوزَاتُ"/>
+                <term case="accussative" dediacritic="مطبوز" number="single" sex="male" value="مَطْبُوزَ"/>
+                <term case="accussative" dediacritic="مطبوزة" number="single" sex="female" value="مَطْبُوزَةَ"/>
+                <term case="accussative" dediacritic="مطبوزي" number="dual" sex="male" value="مَطْبُوزَيْ"/>
+                <term case="accussative" dediacritic="مطبوزتي" number="dual" sex="female" value="مَطْبُوزَتَيْ"/>
+                <term case="accussative" dediacritic="مطبوزي" number="plural" sex="male" value="مَطْبُوزِي"/>
+                <term case="accussative" dediacritic="مطبوزات" number="plural" sex="female" value="مَطْبُوزَاتِ"/>
+                <term case="jussitive" dediacritic="مطبوز" number="single" sex="male" value="مَطْبُوزِ"/>
+                <term case="jussitive" dediacritic="مطبوزة" number="single" sex="female" value="مَطْبُوزَةِ"/>
+                <term case="jussitive" dediacritic="مطبوزي" number="dual" sex="male" value="مَطْبُوزَيْ"/>
+                <term case="jussitive" dediacritic="مطبوزتي" number="dual" sex="female" value="مَطْبُوزَتَيْ"/>
+                <term case="jussitive" dediacritic="مطبوزي" number="plural" sex="male" value="مَطْبُوزِي"/>
+                <term case="jussitive" dediacritic="مطبوزات" number="plural" sex="female" value="مَطْبُوزَاتِ"/>
+              </annexed>
+            </formula>
+          </object>
+          <exaggeration>
+            <formula value="فَعَّال">
+              <indefinite>
+                <term case="nominative" dediacritic="طباز" number="single" sex="male" value="طَبَّازُ"/>
+                <term case="nominative" dediacritic="طبازة" number="single" sex="female" value="طَبَّازَةُ"/>
+                <term case="nominative" dediacritic="طبازا" number="dual" sex="male" value="طَبَّازَا"/>
+                <term case="nominative" dediacritic="طبازتا" number="dual" sex="female" value="طَبَّازَتَا"/>
+                <term case="nominative" dediacritic="طبازو" number="plural" sex="male" value="طَبَّازُو"/>
+                <term case="nominative" dediacritic="طبازات" number="plural" sex="female" value="طَبَّازَاتُ"/>
+                <term case="accussative" dediacritic="طباز" number="single" sex="male" value="طَبَّازَ"/>
+                <term case="accussative" dediacritic="طبازة" number="single" sex="female" value="طَبَّازَةَ"/>
+                <term case="accussative" dediacritic="طبازي" number="dual" sex="male" value="طَبَّازَيْ"/>
+                <term case="accussative" dediacritic="طبازتي" number="dual" sex="female" value="طَبَّازَتَيْ"/>
+                <term case="accussative" dediacritic="طبازي" number="plural" sex="male" value="طَبَّازِي"/>
+                <term case="accussative" dediacritic="طبازات" number="plural" sex="female" value="طَبَّازَاتِ"/>
+                <term case="jussitive" dediacritic="طباز" number="single" sex="male" value="طَبَّازِ"/>
+                <term case="jussitive" dediacritic="طبازة" number="single" sex="female" value="طَبَّازَةِ"/>
+                <term case="jussitive" dediacritic="طبازي" number="dual" sex="male" value="طَبَّازَيْ"/>
+                <term case="jussitive" dediacritic="طبازتي" number="dual" sex="female" value="طَبَّازَتَيْ"/>
+                <term case="jussitive" dediacritic="طبازي" number="plural" sex="male" value="طَبَّازِي"/>
+                <term case="jussitive" dediacritic="طبازات" number="plural" sex="female" value="طَبَّازَاتِ"/>
+              </indefinite>
+              <definite>
+                <term case="nominative" dediacritic="الطباز" number="single" sex="male" value="الطَّبَّازُ"/>
+                <term case="nominative" dediacritic="الطبازة" number="single" sex="female" value="الطَّبَّازَةُ"/>
+                <term case="nominative" dediacritic="الطبازان" number="dual" sex="male" value="الطَّبَّازَانِ"/>
+                <term case="nominative" dediacritic="الطبازتان" number="dual" sex="female" value="الطَّبَّازَتَانِ"/>
+                <term case="nominative" dediacritic="الطبازون" number="plural" sex="male" value="الطَّبَّازُونَ"/>
+                <term case="nominative" dediacritic="الطبازات" number="plural" sex="female" value="الطَّبَّازَاتُ"/>
+                <term case="accussative" dediacritic="الطباز" number="single" sex="male" value="الطَّبَّازَ"/>
+                <term case="accussative" dediacritic="الطبازة" number="single" sex="female" value="الطَّبَّازَةَ"/>
+                <term case="accussative" dediacritic="الطبازين" number="dual" sex="male" value="الطَّبَّازَيْنِ"/>
+                <term case="accussative" dediacritic="الطبازتين" number="dual" sex="female" value="الطَّبَّازَتَيْنِ"/>
+                <term case="accussative" dediacritic="الطبازين" number="plural" sex="male" value="الطَّبَّازِينَ"/>
+                <term case="accussative" dediacritic="الطبازات" number="plural" sex="female" value="الطَّبَّازَاتِ"/>
+                <term case="jussitive" dediacritic="الطباز" number="single" sex="male" value="الطَّبَّازِ"/>
+                <term case="jussitive" dediacritic="الطبازة" number="single" sex="female" value="الطَّبَّازَةِ"/>
+                <term case="jussitive" dediacritic="الطبازين" number="dual" sex="male" value="الطَّبَّازَيْنِ"/>
+                <term case="jussitive" dediacritic="الطبازتين" number="dual" sex="female" value="الطَّبَّازَتَيْنِ"/>
+                <term case="jussitive" dediacritic="الطبازين" number="plural" sex="male" value="الطَّبَّازِينَ"/>
+                <term case="jussitive" dediacritic="الطبازات" number="plural" sex="female" value="الطَّبَّازَاتِ"/>
+              </definite>
+              <annexed>
+                <term case="nominative" dediacritic="طباز" number="single" sex="male" value="طَبَّازُ"/>
+                <term case="nominative" dediacritic="طبازة" number="single" sex="female" value="طَبَّازَةُ"/>
+                <term case="nominative" dediacritic="طبازا" number="dual" sex="male" value="طَبَّازَا"/>
+                <term case="nominative" dediacritic="طبازتا" number="dual" sex="female" value="طَبَّازَتَا"/>
+                <term case="nominative" dediacritic="طبازو" number="plural" sex="male" value="طَبَّازُو"/>
+                <term case="nominative" dediacritic="طبازات" number="plural" sex="female" value="طَبَّازَاتُ"/>
+                <term case="accussative" dediacritic="طباز" number="single" sex="male" value="طَبَّازَ"/>
+                <term case="accussative" dediacritic="طبازة" number="single" sex="female" value="طَبَّازَةَ"/>
+                <term case="accussative" dediacritic="طبازي" number="dual" sex="male" value="طَبَّازَيْ"/>
+                <term case="accussative" dediacritic="طبازتي" number="dual" sex="female" value="طَبَّازَتَيْ"/>
+                <term case="accussative" dediacritic="طبازي" number="plural" sex="male" value="طَبَّازِي"/>
+                <term case="accussative" dediacritic="طبازات" number="plural" sex="female" value="طَبَّازَاتِ"/>
+                <term case="jussitive" dediacritic="طباز" number="single" sex="male" value="طَبَّازِ"/>
+                <term case="jussitive" dediacritic="طبازة" number="single" sex="female" value="طَبَّازَةِ"/>
+                <term case="jussitive" dediacritic="طبازي" number="dual" sex="male" value="طَبَّازَيْ"/>
+                <term case="jussitive" dediacritic="طبازتي" number="dual" sex="female" value="طَبَّازَتَيْ"/>
+                <term case="jussitive" dediacritic="طبازي" number="plural" sex="male" value="طَبَّازِي"/>
+                <term case="jussitive" dediacritic="طبازات" number="plural" sex="female" value="طَبَّازَاتِ"/>
+              </annexed>
+            </formula>
+          </exaggeration>
+          <instrumental>
+            <formula value="مِفْعَل">
+              <indefinite>
+                <term case="nominative" dediacritic="مطبز" number="single" sex="male" value="مِطْبَزُ"/>
+                <term case="nominative" dediacritic="" number="single" sex="female" value=""/>
+                <term case="nominative" dediacritic="مطبزا" number="dual" sex="male" value="مِطْبَزَا"/>
+                <term case="nominative" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="nominative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="nominative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="accussative" dediacritic="مطبز" number="single" sex="male" value="مِطْبَزَ"/>
+                <term case="accussative" dediacritic="" number="single" sex="female" value=""/>
+                <term case="accussative" dediacritic="مطبزي" number="dual" sex="male" value="مِطْبَزَيْ"/>
+                <term case="accussative" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="accussative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="accussative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="jussitive" dediacritic="مطبز" number="single" sex="male" value="مِطْبَزِ"/>
+                <term case="jussitive" dediacritic="" number="single" sex="female" value=""/>
+                <term case="jussitive" dediacritic="مطبزي" number="dual" sex="male" value="مِطْبَزَيْ"/>
+                <term case="jussitive" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="jussitive" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="jussitive" dediacritic="" number="plural" sex="female" value=""/>
+              </indefinite>
+              <definite>
+                <term case="nominative" dediacritic="المطبز" number="single" sex="male" value="المِطْبَزُ"/>
+                <term case="nominative" dediacritic="" number="single" sex="female" value=""/>
+                <term case="nominative" dediacritic="المطبزان" number="dual" sex="male" value="المِطْبَزَانِ"/>
+                <term case="nominative" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="nominative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="nominative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="accussative" dediacritic="المطبز" number="single" sex="male" value="المِطْبَزَ"/>
+                <term case="accussative" dediacritic="" number="single" sex="female" value=""/>
+                <term case="accussative" dediacritic="المطبزين" number="dual" sex="male" value="المِطْبَزَيْنِ"/>
+                <term case="accussative" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="accussative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="accussative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="jussitive" dediacritic="المطبز" number="single" sex="male" value="المِطْبَزِ"/>
+                <term case="jussitive" dediacritic="" number="single" sex="female" value=""/>
+                <term case="jussitive" dediacritic="المطبزين" number="dual" sex="male" value="المِطْبَزَيْنِ"/>
+                <term case="jussitive" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="jussitive" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="jussitive" dediacritic="" number="plural" sex="female" value=""/>
+              </definite>
+              <annexed>
+                <term case="nominative" dediacritic="مطبز" number="single" sex="male" value="مِطْبَزُ"/>
+                <term case="nominative" dediacritic="" number="single" sex="female" value=""/>
+                <term case="nominative" dediacritic="مطبزا" number="dual" sex="male" value="مِطْبَزَا"/>
+                <term case="nominative" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="nominative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="nominative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="accussative" dediacritic="مطبز" number="single" sex="male" value="مِطْبَزَ"/>
+                <term case="accussative" dediacritic="" number="single" sex="female" value=""/>
+                <term case="accussative" dediacritic="مطبزي" number="dual" sex="male" value="مِطْبَزَيْ"/>
+                <term case="accussative" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="accussative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="accussative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="jussitive" dediacritic="مطبز" number="single" sex="male" value="مِطْبَزِ"/>
+                <term case="jussitive" dediacritic="" number="single" sex="female" value=""/>
+                <term case="jussitive" dediacritic="مطبزي" number="dual" sex="male" value="مِطْبَزَيْ"/>
+                <term case="jussitive" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="jussitive" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="jussitive" dediacritic="" number="plural" sex="female" value=""/>
+              </annexed>
+            </formula>
+            <formula value="مِفْعَلَة">
+              <indefinite>
+                <term case="nominative" dediacritic="" number="single" sex="male" value=""/>
+                <term case="nominative" dediacritic="مطبزة" number="single" sex="female" value="مِطْبَزَةُ"/>
+                <term case="nominative" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="nominative" dediacritic="مطبزتا" number="dual" sex="female" value="مِطْبَزَتَا"/>
+                <term case="nominative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="nominative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="accussative" dediacritic="" number="single" sex="male" value=""/>
+                <term case="accussative" dediacritic="مطبزة" number="single" sex="female" value="مِطْبَزَةَ"/>
+                <term case="accussative" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="accussative" dediacritic="مطبزتي" number="dual" sex="female" value="مِطْبَزَتَيْ"/>
+                <term case="accussative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="accussative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="jussitive" dediacritic="" number="single" sex="male" value=""/>
+                <term case="jussitive" dediacritic="مطبزة" number="single" sex="female" value="مِطْبَزَةِ"/>
+                <term case="jussitive" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="jussitive" dediacritic="مطبزتي" number="dual" sex="female" value="مِطْبَزَتَيْ"/>
+                <term case="jussitive" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="jussitive" dediacritic="" number="plural" sex="female" value=""/>
+              </indefinite>
+              <definite>
+                <term case="nominative" dediacritic="" number="single" sex="male" value=""/>
+                <term case="nominative" dediacritic="المطبزة" number="single" sex="female" value="المِطْبَزَةُ"/>
+                <term case="nominative" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="nominative" dediacritic="المطبزتان" number="dual" sex="female" value="المِطْبَزَتَانِ"/>
+                <term case="nominative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="nominative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="accussative" dediacritic="" number="single" sex="male" value=""/>
+                <term case="accussative" dediacritic="المطبزة" number="single" sex="female" value="المِطْبَزَةَ"/>
+                <term case="accussative" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="accussative" dediacritic="المطبزتين" number="dual" sex="female" value="المِطْبَزَتَيْنِ"/>
+                <term case="accussative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="accussative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="jussitive" dediacritic="" number="single" sex="male" value=""/>
+                <term case="jussitive" dediacritic="المطبزة" number="single" sex="female" value="المِطْبَزَةِ"/>
+                <term case="jussitive" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="jussitive" dediacritic="المطبزتين" number="dual" sex="female" value="المِطْبَزَتَيْنِ"/>
+                <term case="jussitive" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="jussitive" dediacritic="" number="plural" sex="female" value=""/>
+              </definite>
+              <annexed>
+                <term case="nominative" dediacritic="" number="single" sex="male" value=""/>
+                <term case="nominative" dediacritic="مطبزة" number="single" sex="female" value="مِطْبَزَةُ"/>
+                <term case="nominative" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="nominative" dediacritic="مطبزتا" number="dual" sex="female" value="مِطْبَزَتَا"/>
+                <term case="nominative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="nominative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="accussative" dediacritic="" number="single" sex="male" value=""/>
+                <term case="accussative" dediacritic="مطبزة" number="single" sex="female" value="مِطْبَزَةَ"/>
+                <term case="accussative" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="accussative" dediacritic="مطبزتي" number="dual" sex="female" value="مِطْبَزَتَيْ"/>
+                <term case="accussative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="accussative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="jussitive" dediacritic="" number="single" sex="male" value=""/>
+                <term case="jussitive" dediacritic="مطبزة" number="single" sex="female" value="مِطْبَزَةِ"/>
+                <term case="jussitive" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="jussitive" dediacritic="مطبزتي" number="dual" sex="female" value="مِطْبَزَتَيْ"/>
+                <term case="jussitive" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="jussitive" dediacritic="" number="plural" sex="female" value=""/>
+              </annexed>
+            </formula>
+            <formula value="مِفْعَال">
+              <indefinite>
+                <term case="nominative" dediacritic="مطباز" number="single" sex="male" value="مِطْبَازُ"/>
+                <term case="nominative" dediacritic="" number="single" sex="female" value=""/>
+                <term case="nominative" dediacritic="مطبازا" number="dual" sex="male" value="مِطْبَازَا"/>
+                <term case="nominative" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="nominative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="nominative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="accussative" dediacritic="مطباز" number="single" sex="male" value="مِطْبَازَ"/>
+                <term case="accussative" dediacritic="" number="single" sex="female" value=""/>
+                <term case="accussative" dediacritic="مطبازي" number="dual" sex="male" value="مِطْبَازَيْ"/>
+                <term case="accussative" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="accussative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="accussative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="jussitive" dediacritic="مطباز" number="single" sex="male" value="مِطْبَازِ"/>
+                <term case="jussitive" dediacritic="" number="single" sex="female" value=""/>
+                <term case="jussitive" dediacritic="مطبازي" number="dual" sex="male" value="مِطْبَازَيْ"/>
+                <term case="jussitive" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="jussitive" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="jussitive" dediacritic="" number="plural" sex="female" value=""/>
+              </indefinite>
+              <definite>
+                <term case="nominative" dediacritic="المطباز" number="single" sex="male" value="المِطْبَازُ"/>
+                <term case="nominative" dediacritic="" number="single" sex="female" value=""/>
+                <term case="nominative" dediacritic="المطبازان" number="dual" sex="male" value="المِطْبَازَانِ"/>
+                <term case="nominative" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="nominative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="nominative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="accussative" dediacritic="المطباز" number="single" sex="male" value="المِطْبَازَ"/>
+                <term case="accussative" dediacritic="" number="single" sex="female" value=""/>
+                <term case="accussative" dediacritic="المطبازين" number="dual" sex="male" value="المِطْبَازَيْنِ"/>
+                <term case="accussative" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="accussative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="accussative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="jussitive" dediacritic="المطباز" number="single" sex="male" value="المِطْبَازِ"/>
+                <term case="jussitive" dediacritic="" number="single" sex="female" value=""/>
+                <term case="jussitive" dediacritic="المطبازين" number="dual" sex="male" value="المِطْبَازَيْنِ"/>
+                <term case="jussitive" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="jussitive" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="jussitive" dediacritic="" number="plural" sex="female" value=""/>
+              </definite>
+              <annexed>
+                <term case="nominative" dediacritic="مطباز" number="single" sex="male" value="مِطْبَازُ"/>
+                <term case="nominative" dediacritic="" number="single" sex="female" value=""/>
+                <term case="nominative" dediacritic="مطبازا" number="dual" sex="male" value="مِطْبَازَا"/>
+                <term case="nominative" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="nominative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="nominative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="accussative" dediacritic="مطباز" number="single" sex="male" value="مِطْبَازَ"/>
+                <term case="accussative" dediacritic="" number="single" sex="female" value=""/>
+                <term case="accussative" dediacritic="مطبازي" number="dual" sex="male" value="مِطْبَازَيْ"/>
+                <term case="accussative" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="accussative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="accussative" dediacritic="" number="plural" sex="female" value=""/>
+                <term case="jussitive" dediacritic="مطباز" number="single" sex="male" value="مِطْبَازِ"/>
+                <term case="jussitive" dediacritic="" number="single" sex="female" value=""/>
+                <term case="jussitive" dediacritic="مطبازي" number="dual" sex="male" value="مِطْبَازَيْ"/>
+                <term case="jussitive" dediacritic="" number="dual" sex="female" value=""/>
+                <term case="jussitive" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="jussitive" dediacritic="" number="plural" sex="female" value=""/>
+              </annexed>
+            </formula>
+            <formula value="فَعَّالَة">
+              <indefinite>
+                <term case="nominative" dediacritic="" number="single" sex="male" value=""/>
+                <term case="nominative" dediacritic="طبازة" number="single" sex="female" value="طَبَّازَةُ"/>
+                <term case="nominative" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="nominative" dediacritic="طبازتا" number="dual" sex="female" value="طَبَّازَتَا"/>
+                <term case="nominative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="nominative" dediacritic="طبازات" number="plural" sex="female" value="طَبَّازَاتُ"/>
+                <term case="accussative" dediacritic="" number="single" sex="male" value=""/>
+                <term case="accussative" dediacritic="طبازة" number="single" sex="female" value="طَبَّازَةَ"/>
+                <term case="accussative" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="accussative" dediacritic="طبازتي" number="dual" sex="female" value="طَبَّازَتَيْ"/>
+                <term case="accussative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="accussative" dediacritic="طبازات" number="plural" sex="female" value="طَبَّازَاتِ"/>
+                <term case="jussitive" dediacritic="" number="single" sex="male" value=""/>
+                <term case="jussitive" dediacritic="طبازة" number="single" sex="female" value="طَبَّازَةِ"/>
+                <term case="jussitive" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="jussitive" dediacritic="طبازتي" number="dual" sex="female" value="طَبَّازَتَيْ"/>
+                <term case="jussitive" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="jussitive" dediacritic="طبازات" number="plural" sex="female" value="طَبَّازَاتِ"/>
+              </indefinite>
+              <definite>
+                <term case="nominative" dediacritic="" number="single" sex="male" value=""/>
+                <term case="nominative" dediacritic="الطبازة" number="single" sex="female" value="الطَّبَّازَةُ"/>
+                <term case="nominative" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="nominative" dediacritic="الطبازتان" number="dual" sex="female" value="الطَّبَّازَتَانِ"/>
+                <term case="nominative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="nominative" dediacritic="الطبازات" number="plural" sex="female" value="الطَّبَّازَاتُ"/>
+                <term case="accussative" dediacritic="" number="single" sex="male" value=""/>
+                <term case="accussative" dediacritic="الطبازة" number="single" sex="female" value="الطَّبَّازَةَ"/>
+                <term case="accussative" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="accussative" dediacritic="الطبازتين" number="dual" sex="female" value="الطَّبَّازَتَيْنِ"/>
+                <term case="accussative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="accussative" dediacritic="الطبازات" number="plural" sex="female" value="الطَّبَّازَاتِ"/>
+                <term case="jussitive" dediacritic="" number="single" sex="male" value=""/>
+                <term case="jussitive" dediacritic="الطبازة" number="single" sex="female" value="الطَّبَّازَةِ"/>
+                <term case="jussitive" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="jussitive" dediacritic="الطبازتين" number="dual" sex="female" value="الطَّبَّازَتَيْنِ"/>
+                <term case="jussitive" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="jussitive" dediacritic="الطبازات" number="plural" sex="female" value="الطَّبَّازَاتِ"/>
+              </definite>
+              <annexed>
+                <term case="nominative" dediacritic="" number="single" sex="male" value=""/>
+                <term case="nominative" dediacritic="طبازة" number="single" sex="female" value="طَبَّازَةُ"/>
+                <term case="nominative" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="nominative" dediacritic="طبازتا" number="dual" sex="female" value="طَبَّازَتَا"/>
+                <term case="nominative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="nominative" dediacritic="طبازات" number="plural" sex="female" value="طَبَّازَاتُ"/>
+                <term case="accussative" dediacritic="" number="single" sex="male" value=""/>
+                <term case="accussative" dediacritic="طبازة" number="single" sex="female" value="طَبَّازَةَ"/>
+                <term case="accussative" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="accussative" dediacritic="طبازتي" number="dual" sex="female" value="طَبَّازَتَيْ"/>
+                <term case="accussative" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="accussative" dediacritic="طبازات" number="plural" sex="female" value="طَبَّازَاتِ"/>
+                <term case="jussitive" dediacritic="" number="single" sex="male" value=""/>
+                <term case="jussitive" dediacritic="طبازة" number="single" sex="female" value="طَبَّازَةِ"/>
+                <term case="jussitive" dediacritic="" number="dual" sex="male" value=""/>
+                <term case="jussitive" dediacritic="طبازتي" number="dual" sex="female" value="طَبَّازَتَيْ"/>
+                <term case="jussitive" dediacritic="" number="plural" sex="male" value=""/>
+                <term case="jussitive" dediacritic="طبازات" number="plural" sex="female" value="طَبَّازَاتِ"/>
+              </annexed>
+            </formula>
+          </instrumental>
+          <timePlace/>
+          <elative/>
+          <assimilate/>
+        </nounDerviation>
+        <gerund>
+          <original>
+            <formula value="فَعْل">
+              <indefinite>
+                <term case="nominative" dediacritic="طبز" number="single" sex="male" value="طَبْزٌ"/>
+                <term case="accussative" dediacritic="طبزا" number="single" sex="male" value="طَبْزًا"/>
+                <term case="jussitive" dediacritic="طبز" number="single" sex="male" value="طَبْزٍ"/>
+              </indefinite>
+              <definite>
+                <term case="nominative" dediacritic="الطبز" number="single" sex="male" value="الطَّبْزُ"/>
+                <term case="accussative" dediacritic="الطبز" number="single" sex="male" value="الطَّبْزَ"/>
+                <term case="jussitive" dediacritic="الطبز" number="single" sex="male" value="الطَّبْزِ"/>
+              </definite>
+              <annexed>
+                <term case="nominative" dediacritic="طبز" number="single" sex="male" value="طَبْزُ"/>
+                <term case="accussative" dediacritic="طبز" number="single" sex="male" value="طَبْزَ"/>
+                <term case="jussitive" dediacritic="طبز" number="single" sex="male" value="طَبْزِ"/>
+              </annexed>
+            </formula>
+          </original>
+          <meem>
+            <formula value="مَفْعَل">
+              <indefinite>
+                <term case="nominative" dediacritic="مطبز" number="single" sex="male" value="مَطْبَزُ"/>
+                <term case="accussative" dediacritic="مطبز" number="single" sex="male" value="مَطْبَزَ"/>
+                <term case="jussitive" dediacritic="مطبز" number="single" sex="male" value="مَطْبَزِ"/>
+              </indefinite>
+              <definite>
+                <term case="nominative" dediacritic="المطبز" number="single" sex="male" value="المَطْبَزُ"/>
+                <term case="accussative" dediacritic="المطبز" number="single" sex="male" value="المَطْبَزَ"/>
+                <term case="jussitive" dediacritic="المطبز" number="single" sex="male" value="المَطْبَزِ"/>
+              </definite>
+              <annexed>
+                <term case="nominative" dediacritic="مطبز" number="single" sex="male" value="مَطْبَزُ"/>
+                <term case="accussative" dediacritic="مطبز" number="single" sex="male" value="مَطْبَزَ"/>
+                <term case="jussitive" dediacritic="مطبز" number="single" sex="male" value="مَطْبَزِ"/>
+              </annexed>
+            </formula>
+          </meem>
+          <nomen>
+            <formula value="فَعْلَة">
+              <indefinite>
+                <term case="nominative" dediacritic="طبزة" number="single" sex="female" value="طَبْزَةُ"/>
+                <term case="nominative" dediacritic="طبزتا" number="dual" sex="female" value="طَبْزَتَا"/>
+                <term case="nominative" dediacritic="طبزات" number="plural" sex="female" value="طَبَزَاتُ"/>
+                <term case="accussative" dediacritic="طبزة" number="single" sex="female" value="طَبْزَةَ"/>
+                <term case="accussative" dediacritic="طبزتي" number="dual" sex="female" value="طَبْزَتَيْ"/>
+                <term case="accussative" dediacritic="طبزات" number="plural" sex="female" value="طَبَزَاتِ"/>
+                <term case="jussitive" dediacritic="طبزة" number="single" sex="female" value="طَبْزَةِ"/>
+                <term case="jussitive" dediacritic="طبزتي" number="dual" sex="female" value="طَبْزَتَيْ"/>
+                <term case="jussitive" dediacritic="طبزات" number="plural" sex="female" value="طَبَزَاتِ"/>
+              </indefinite>
+              <definite>
+                <term case="nominative" dediacritic="الطبزة" number="single" sex="female" value="الطَّبْزَةُ"/>
+                <term case="nominative" dediacritic="الطبزتان" number="dual" sex="female" value="الطَّبْزَتَانِ"/>
+                <term case="nominative" dediacritic="الطبزات" number="plural" sex="female" value="الطَّبَزَاتُ"/>
+                <term case="accussative" dediacritic="الطبزة" number="single" sex="female" value="الطَّبْزَةَ"/>
+                <term case="accussative" dediacritic="الطبزتين" number="dual" sex="female" value="الطَّبْزَتَيْنِ"/>
+                <term case="accussative" dediacritic="الطبزات" number="plural" sex="female" value="الطَّبَزَاتِ"/>
+                <term case="jussitive" dediacritic="الطبزة" number="single" sex="female" value="الطَّبْزَةِ"/>
+                <term case="jussitive" dediacritic="الطبزتين" number="dual" sex="female" value="الطَّبْزَتَيْنِ"/>
+                <term case="jussitive" dediacritic="الطبزات" number="plural" sex="female" value="الطَّبَزَاتِ"/>
+              </definite>
+              <annexed>
+                <term case="nominative" dediacritic="طبزة" number="single" sex="female" value="طَبْزَةُ"/>
+                <term case="nominative" dediacritic="طبزتا" number="dual" sex="female" value="طَبْزَتَا"/>
+                <term case="nominative" dediacritic="طبزات" number="plural" sex="female" value="طَبَزَاتُ"/>
+                <term case="accussative" dediacritic="طبزة" number="single" sex="female" value="طَبْزَةَ"/>
+                <term case="accussative" dediacritic="طبزتي" number="dual" sex="female" value="طَبْزَتَيْ"/>
+                <term case="accussative" dediacritic="طبزات" number="plural" sex="female" value="طَبَزَاتِ"/>
+                <term case="jussitive" dediacritic="طبزة" number="single" sex="female" value="طَبْزَةِ"/>
+                <term case="jussitive" dediacritic="طبزتي" number="dual" sex="female" value="طَبْزَتَيْ"/>
+                <term case="jussitive" dediacritic="طبزات" number="plural" sex="female" value="طَبَزَاتِ"/>
+              </annexed>
+            </formula>
+          </nomen>
+          <quality>
+            <formula value="فِعْلَة">
+              <indefinite>
+                <term case="nominative" dediacritic="طبزة" number="single" sex="female" value="طِبْزَةُ"/>
+                <term case="accussative" dediacritic="طبزة" number="single" sex="female" value="طِبْزَةَ"/>
+                <term case="jussitive" dediacritic="طبزة" number="single" sex="female" value="طِبْزَةِ"/>
+              </indefinite>
+              <definite>
+                <term case="nominative" dediacritic="الطبزة" number="single" sex="female" value="الطِّبْزَةُ"/>
+                <term case="accussative" dediacritic="الطبزة" number="single" sex="female" value="الطِّبْزَةَ"/>
+                <term case="jussitive" dediacritic="الطبزة" number="single" sex="female" value="الطِّبْزَةِ"/>
+              </definite>
+              <annexed>
+                <term case="nominative" dediacritic="طبزة" number="single" sex="female" value="طِبْزَةُ"/>
+                <term case="accussative" dediacritic="طبزة" number="single" sex="female" value="طِبْزَةَ"/>
+                <term case="jussitive" dediacritic="طبزة" number="single" sex="female" value="طِبْزَةِ"/>
+              </annexed>
+            </formula>
+          </quality>
+        </gerund>
+      </conjuagtion>
+    </unaugmented>
+    <augmented/>
+  </root>
+</roots>

@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<roots>
+    <root id="1" value="لكم" type="Trilateral">
+        <rootConjugation>
+            <unaugmetend>
+                <conjugation id="1">
+                    <past wieght="فَعَلَ">
+                        <term value="لَكَمَ"/>
+                    </past>
+                    <present wieght="يفعُل">
+                        <term value="يَلْكُمُ"/>
+                    </present>
+                    <verbConjugation>
+                        <activeVerbs>
+                            <past>
+                                <term value="لكمت" pronouns="أنا"/>
+                                <term value="لكمت" pronouns="أنت"/>
+								
+                            </past>
+                            <nominativePresent>
+                                <term value="لكمت" pronouns="أنا"/>
+                                <term value="لكمت" pronouns="أنت"/>
+								
+                            </nominativePresent>
+							
+                        </activeVerbs>
+                        <passiveVerbs>
+                            <past>
+                                <term value="لكمت" pronouns="أنا"/>
+                                <term value="لكمت" pronouns="أنت"/>
+								
+                            </past>
+                            <nominativePresent>
+                                <term value="لكمت" pronouns="أنا"/>
+                                <term value="لكمت" pronouns="أنت"/>
+								
+                            </nominativePresent>
+							
+                        </passiveVerbs>
+                    </verbConjugation>
+                    <nounDerviation>
+                        <subject>
+                            <formula value="">
+                                <nominative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </plural>
+                                </nominative>
+                                <accusative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>>
+										
+                                    </plural>
+                                </accusative>
+                                <jusitive>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </plural>
+                                </jusitive>
+                            </formula>
+							
+                        </subject>
+                        <object>
+                   
+                            <formula value="">
+                                <nominative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </nominative>
+                                <accusative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </accusative>
+                                <jusitive>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </jusitive>
+                            </formula>
+							
+                        </object>
+                        <exaggeration>
+                          
+                            <formula value="">
+                                <nominative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </nominative>
+                                <accusative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </accusative>
+                                <jusitive>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </plural>
+                                </jusitive>
+                            </formula>
+							
+                        </exaggeration>
+                        <machine>
+						
+                            <formula value="">
+                                <nominative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </plural>
+                                </nominative>
+                                <accusative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </accusative>
+                                <jusitive>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </jusitive>
+                            </formula>
+							
+                        </machine>
+                        <timePlace>
+						
+                            <formula value="">
+                                <nominative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </plural>
+                                </nominative>
+                                <accusative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </plural>
+                                </accusative>
+                                <jusitive>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </plural>
+                                </jusitive>
+                            </formula>
+                            .
+                            .
+                            .
+                        </timePlace>
+                        <elative>
+						
+                            <formula value="">
+                                <nominative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </nominative>
+                                <accusative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </accusative>
+                                <jusitive>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </jusitive>
+                            </formula>
+                            .
+                            .
+                            .
+                        </elative>
+                        <assimilate>
+						
+                            <formula value="">
+                                <nominative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </nominative>
+                                <accusative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </plural>
+                                </accusative>
+                                <jusitive>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </jusitive>
+                            </formula>
+                     
+                        </assimilate>
+                    </nounDerviation>
+                    <gerund>
+                        <original>
+							
+                            <formula value="">
+                                <nominative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </nominative>
+                                <accusative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </plural>
+                                </accusative>
+                                <jusitive>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </plural>
+                                </jusitive>
+                            </formula>
+                          
+                        </original>
+                        <meem>
+							
+                            <formula value="">
+                                <nominative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>			
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </nominative>
+                                <accusative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </accusative>
+                                <jusitive>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </jusitive>
+                            </formula>
+							
+                        </meem>
+                        <nomen>
+							
+                            <formula value="">
+                                <nominative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </nominative>
+                                <accusative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </accusative>
+                                <jusitive>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </jusitive>
+                            </formula>
+							
+                        </nomen>
+                        <qualitive>
+							
+                            <formula value="">
+                                <nominative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </nominative>
+                                <accusative>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </accusative>
+                                <jusitive>
+                                    <single>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </single>
+                                    <dual>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+                                    </dual>
+                                    <plural>
+                                        <term value="" type="indefinite" sex="male"/>
+                                        <term value="" type="definite" sex="male"/>
+                                        <term value="" type="indefinite" sex="female"/>
+                                        <term value="" type="definite" sex="female"/>
+                                        <term value="" type="annexed" sex="male"/>
+                                        <term value="" type="annexed" sex="female"/>
+										
+                                    </plural>
+                                </jusitive>
+                            </formula>
+							
+                        </qualitive>
+                    </gerund>
+                </conjugation>
+				
+            </unaugmetend>
+            <augmented>
+                <once>
+                    <conjugation id="1"/>
+					
+                </once>
+                <twice>
+				
+                </twice>
+                <third>
+				
+                </third>
+            </augmented>
+			
+        </rootConjugation>
+    </root>
+    <root id="2"/>
+</roots>
+			

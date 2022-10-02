@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?><roots>
+  <root id="1" type="trilateral" value="حبب">
+    <augmented>
+      <conjuagtion id="1">
+        <past>
+          <term value="أَحْبَبَ"/>
+        </past>
+        <present>
+          <term value="يُحْبِبُ"/>
+        </present>
+        <verbConjugation>
+          <activeVerb>
+            <past>
+              <term dediacritic="أحببت" pronoun="أنا" value="أَحْبَبْتُ"/>
+              <term dediacritic="أحببنا" pronoun="نحن" value="أَحْبَبْنَا"/>
+              <term dediacritic="أحببت" pronoun="أنتَ" value="أَحْبَبْتَ"/>
+              <term dediacritic="أحببت" pronoun="أنتِ" value="أَحْبَبْتِ"/>
+              <term dediacritic="أحببتما" pronoun="أنتما" value="أَحْبَبْتُمَا"/>
+              <term dediacritic="أحببتم" pronoun="أنتم" value="أَحْبَبْتُمْ"/>
+              <term dediacritic="أحببتن" pronoun="أنتنُّ" value="أَحْبَبْتُنَّ"/>
+              <term dediacritic="أحبب" pronoun="هو" value="أَحْبَبَ"/>
+              <term dediacritic="أحببت" pronoun="هي" value="أَحْبَبَتْ"/>
+              <term dediacritic="أحببا" pronoun="هما" value="أَحْبَبَا"/>
+              <term dediacritic="أحببتا" pronoun="هما2" value="أَحْبَبَتَا"/>
+              <term dediacritic="أحببوا" pronoun="هم" value="أَحْبَبُوا"/>
+              <term dediacritic="أحببن" pronoun="هنُّ" value="أَحْبَبْنَ"/>
+            </past>
+            <nominativePresent>
+              <term dediacritic="أحبب" pronoun="أنا" value="أُحْبِبُ"/>
+              <term dediacritic="نحبب" pronoun="نحن" value="نُحْبِبُ"/>
+              <term dediacritic="تحبب" pronoun="أنتَ" value="تُحْبِبُ"/>
+              <term dediacritic="تحببين" pronoun="أنتِ" value="تُحْبِبِينَ"/>
+              <term dediacritic="تحببان" pronoun="أنتما" value="تُحْبِبَانِ"/>
+              <term dediacritic="تحببون" pronoun="أنتم" value="تُحْبِبُونَ"/>
+              <term dediacritic="تحببن" pronoun="أنتنُّ" value="تُحْبِبْنَ"/>
+              <term dediacritic="يحبب" pronoun="هو" value="يُحْبِبُ"/>
+              <term dediacritic="تحبب" pronoun="هي" value="تُحْبِبُ"/>
+              <term dediacritic="يحببان" pronoun="هما" value="يُحْبِبَانِ"/>
+              <term dediacritic="تحببان" pronoun="هما2" value="تُحْبِبَانِ"/>
+              <term dediacritic="يحببون" pronoun="هم" value="يُحْبِبُونَ"/>
+              <term dediacritic="يحببن" pronoun="هنُّ" value="يُحْبِبْنَ"/>
+            </nominativePresent>
+            <accusativePresent>
+              <term dediacritic="أحبب" pronoun="أنا" value="أُحْبِبَ"/>
+              <term dediacritic="نحبب" pronoun="نحن" value="نُحْبِبَ"/>
+              <term dediacritic="تحبب" pronoun="أنتَ" value="تُحْبِبَ"/>
+              <term dediacritic="تحببي" pronoun="أنتِ" value="تُحْبِبِي"/>
+              <term dediacritic="تحببا" pronoun="أنتما" value="تُحْبِبَا"/>
+              <term dediacritic="تحببوا" pronoun="أنتم" value="تُحْبِبُوا"/>
+              <term dediacritic="تحببن" pronoun="أنتنُّ" value="تُحْبِبْنَ"/>
+              <term dediacritic="يحبب" pronoun="هو" value="يُحْبِبَ"/>
+              <term dediacritic="تحبب" pronoun="هي" value="تُحْبِبَ"/>
+              <term dediacritic="يحببا" pronoun="هما" value="يُحْبِبَا"/>
+              <term dediacritic="تحببا" pronoun="هما2" value="تُحْبِبَا"/>
+              <term dediacritic="يحببوا" pronoun="هم" value="يُحْبِبُوا"/>
+              <term dediacritic="يحببن" pronoun="هنُّ" value="يُحْبِبْنَ"/>
+            </accusativePresent>
+            <jussitivePresent>
+              <term dediacritic="أحبب" pronoun="أنا" value="أُحْبِبْ"/>
+              <term dediacritic="نحبب" pronoun="نحن" value="نُحْبِبْ"/>
+              <term dediacritic="تحبب" pronoun="أنتَ" value="تُحْبِبْ"/>
+              <term dediacritic="تحببي" pronoun="أنتِ" value="تُحْبِبِي"/>
+              <term dediacritic="تحببا" pronoun="أنتما" value="تُحْبِبَا"/>
+              <term dediacritic="تحببوا" pronoun="أنتم" value="تُحْبِبُوا"/>
+              <term dediacritic="تحببن" pronoun="أنتنُّ" value="تُحْبِبْنَ"/>
+              <term dediacritic="يحبب" pronoun="هو" value="يُحْبِبْ"/>
+              <term dediacritic="تحبب" pronoun="هي" value="تُحْبِبْ"/>
+              <term dediacritic="يحببا" pronoun="هما" value="يُحْبِبَا"/>
+              <term dediacritic="تحببا" pronoun="هما2" value="تُحْبِبَا"/>
+              <term dediacritic="يحببوا" pronoun="هم" value="يُحْبِبُوا"/>
+              <term dediacritic="يحببن" pronoun="هنُّ" value="يُحْبِبْنَ"/>
+            </jussitivePresent>
+            <emphasize>
+              <term dediacritic="أحببن" pronoun="أنا" value="أُحْبِبَنَّ"/>
+              <term dediacritic="نحببن" pronoun="نحن" value="نُحْبِبَنَّ"/>
+              <term dediacritic="تحببن" pronoun="أنتَ" value="تُحْبِبَنَّ"/>
+              <term dediacritic="تحببن" pronoun="أنتِ" value="تُحْبِبِنَّ"/>
+              <term dediacritic="تحببان" pronoun="أنتما" value="تُحْبِبَانِّ"/>
+              <term dediacritic="تحببن" pronoun="أنتم" value="تُحْبِبُنَّ"/>
+              <term dediacritic="تحببنان" pronoun="أنتنُّ" value="تُحْبِبْنَانِّ"/>
+              <term dediacritic="يحببن" pronoun="هو" value="يُحْبِبَنَّ"/>
+              <term dediacritic="تحببن" pronoun="هي" value="تُحْبِبَنَّ"/>
+              <term dediacritic="يحببان" pronoun="هما" value="يُحْبِبَانِّ"/>
+              <term dediacritic="تحببان" pronoun="هما2" value="تُحْبِبَانِّ"/>
+              <term dediacritic="يحببن" pronoun="هم" value="يُحْبِبُنَّ"/>
+              <term dediacritic="يحببنان" pronoun="هنُّ" value="يُحْبِبْنَانِّ"/>
+            </emphasize>
+            <imperative>
+              <term dediacritic="أحببن" pronoun="أنتَ" value="أَحْبِبَنَّ"/>
+              <term dediacritic="أحببن" pronoun="أنتِ" value="أَحْبِبِنَّ"/>
+              <term dediacritic="أحببان" pronoun="أنتما" value="أَحْبِبَانِّ"/>
+              <term dediacritic="أحببن" pronoun="أنتم" value="أَحْبِبُنَّ"/>
+              <term dediacritic="أحببنان" pronoun="أنتنُّ" value="أَحْبِبْنَانِّ"/>
+            </imperative>
+            <emphEmperative>
+              <term dediacritic="أحببن" pronoun="أنتَ" value="أَحْبِبَنَّ"/>
+              <term dediacritic="أحببن" pronoun="أنتِ" value="أَحْبِبِنَّ"/>
+              <term dediacritic="أحببان" pronoun="أنتما" value="أَحْبِبَانِّ"/>
+              <term dediacritic="أحببن" pronoun="أنتم" value="أَحْبِبُنَّ"/>
+              <term dediacritic="أحببنان" pronoun="أنتنُّ" value="أَحْبِبْنَانِّ"/>
+            </emphEmperative>
+          </activeVerb>
+          <passiveVerb>
+            <past>
+              <term dediacritic="أحببت" pronoun="أنا" value="أُحْبِبْتُ"/>
+              <term dediacritic="أحببنا" pronoun="نحن" value="أُحْبِبْنَا"/>
+              <term dediacritic="أحببت" pronoun="أنتَ" value="أُحْبِبْتَ"/>
+              <term dediacritic="أحببت" pronoun="أنتِ" value="أُحْبِبْتِ"/>
+              <term dediacritic="أحببتما" pronoun="أنتما" value="أُحْبِبْتُمَا"/>
+              <term dediacritic="أحببتم" pronoun="أنتم" value="أُحْبِبْتُمْ"/>
+              <term dediacritic="أحببتن" pronoun="أنتنُّ" value="أُحْبِبْتُنَّ"/>
+              <term dediacritic="أحبب" pronoun="هو" value="أُحْبِبَ"/>
+              <term dediacritic="أحببت" pronoun="هي" value="أُحْبِبَتْ"/>
+              <term dediacritic="أحببا" pronoun="هما" value="أُحْبِبَا"/>
+              <term dediacritic="أحببتا" pronoun="هما2" value="أُحْبِبَتَا"/>
+              <term dediacritic="أحببوا" pronoun="هم" value="أُحْبِبُوا"/>
+              <term dediacritic="أحببن" pronoun="هنُّ" value="أُحْبِبْنَ"/>
+            </past>
+            <nominativePresent>
+              <term dediacritic="أحبب" pronoun="أنا" value="أُحْبَبُ"/>
+              <term dediacritic="نحبب" pronoun="نحن" value="نُحْبَبُ"/>
+              <term dediacritic="تحبب" pronoun="أنتَ" value="تُحْبَبُ"/>
+              <term dediacritic="تحببين" pronoun="أنتِ" value="تُحْبَبِينَ"/>
+              <term dediacritic="تحببان" pronoun="أنتما" value="تُحْبَبَانِ"/>
+              <term dediacritic="تحببون" pronoun="أنتم" value="تُحْبَبُونَ"/>
+              <term dediacritic="تحببن" pronoun="أنتنُّ" value="تُحْبَبْنَ"/>
+              <term dediacritic="يحبب" pronoun="هو" value="يُحْبَبُ"/>
+              <term dediacritic="تحبب" pronoun="هي" value="تُحْبَبُ"/>
+              <term dediacritic="يحببان" pronoun="هما" value="يُحْبَبَانِ"/>
+              <term dediacritic="تحببان" pronoun="هما2" value="تُحْبَبَانِ"/>
+              <term dediacritic="يحببون" pronoun="هم" value="يُحْبَبُونَ"/>
+              <term dediacritic="يحببن" pronoun="هنُّ" value="يُحْبَبْنَ"/>
+            </nominativePresent>
+            <accusativePresent>
+              <term dediacritic="أحبب" pronoun="أنا" value="أُحْبَبَ"/>
+              <term dediacritic="نحبب" pronoun="نحن" value="نُحْبَبَ"/>
+              <term dediacritic="تحبب" pronoun="أنتَ" value="تُحْبَبَ"/>
+              <term dediacritic="تحببي" pronoun="أنتِ" value="تُحْبَبِي"/>
+              <term dediacritic="تحببا" pronoun="أنتما" value="تُحْبَبَا"/>
+              <term dediacritic="تحببوا" pronoun="أنتم" value="تُحْبَبُوا"/>
+              <term dediacritic="تحببن" pronoun="أنتنُّ" value="تُحْبَبْنَ"/>
+              <term dediacritic="يحبب" pronoun="هو" value="يُحْبَبَ"/>
+              <term dediacritic="تحبب" pronoun="هي" value="تُحْبَبَ"/>
+              <term dediacritic="يحببا" pronoun="هما" value="يُحْبَبَا"/>
+              <term dediacritic="تحببا" pronoun="هما2" value="تُحْبَبَا"/>
+              <term dediacritic="يحببوا" pronoun="هم" value="يُحْبَبُوا"/>
+              <term dediacritic="يحببن" pronoun="هنُّ" value="يُحْبَبْنَ"/>
+            </accusativePresent>
+            <jussitivePresent>
+              <term dediacritic="أحبب" pronoun="أنا" value="أُحْبَبْ"/>
+              <term dediacritic="نحبب" pronoun="نحن" value="نُحْبَبْ"/>
+              <term dediacritic="تحبب" pronoun="أنتَ" value="تُحْبَبْ"/>
+              <term dediacritic="تحببي" pronoun="أنتِ" value="تُحْبَبِي"/>
+              <term dediacritic="تحببا" pronoun="أنتما" value="تُحْبَبَا"/>
+              <term dediacritic="تحببوا" pronoun="أنتم" value="تُحْبَبُوا"/>
+              <term dediacritic="تحببن" pronoun="أنتنُّ" value="تُحْبَبْنَ"/>
+              <term dediacritic="يحبب" pronoun="هو" value="يُحْبَبْ"/>
+              <term dediacritic="تحبب" pronoun="هي" value="تُحْبَبْ"/>
+              <term dediacritic="يحببا" pronoun="هما" value="يُحْبَبَا"/>
+              <term dediacritic="تحببا" pronoun="هما2" value="تُحْبَبَا"/>
+              <term dediacritic="يحببوا" pronoun="هم" value="يُحْبَبُوا"/>
+              <term dediacritic="يحببن" pronoun="هنُّ" value="يُحْبَبْنَ"/>
+            </jussitivePresent>
+            <emphasize>
+              <term dediacritic="أحببن" pronoun="أنا" value="أُحْبَبَنَّ"/>
+              <term dediacritic="نحببن" pronoun="نحن" value="نُحْبَبَنَّ"/>
+              <term dediacritic="تحببن" pronoun="أنتَ" value="تُحْبَبَنَّ"/>
+              <term dediacritic="تحببن" pronoun="أنتِ" value="تُحْبَبِنَّ"/>
+              <term dediacritic="تحببان" pronoun="أنتما" value="تُحْبَبَانِّ"/>
+              <term dediacritic="تحببن" pronoun="أنتم" value="تُحْبَبُنَّ"/>
+              <term dediacritic="تحببنان" pronoun="أنتنُّ" value="تُحْبَبْنَانِّ"/>
+              <term dediacritic="يحببن" pronoun="هو" value="يُحْبَبَنَّ"/>
+              <term dediacritic="تحببن" pronoun="هي" value="تُحْبَبَنَّ"/>
+              <term dediacritic="يحببان" pronoun="هما" value="يُحْبَبَانِّ"/>
+              <term dediacritic="تحببان" pronoun="هما2" value="تُحْبَبَانِّ"/>
+              <term dediacritic="يحببن" pronoun="هم" value="يُحْبَبُنَّ"/>
+              <term dediacritic="يحببنان" pronoun="هنُّ" value="يُحْبَبْنَانِّ"/>
+            </emphasize>
+          </passiveVerb>
+        </verbConjugation>
+        <nounDerviation>
+          <subject>
+            <indefinite>
+              <term case="nominative" dediacritic="محبب" number="single" sex="male" value="مُحْبِبٌ"/>
+              <term case="nominative" dediacritic="محببة" number="single" sex="female" value="مُحْبِبَةٌ"/>
+              <term case="nominative" dediacritic="محببان" number="dual" sex="male" value="مُحْبِبَانِ"/>
+              <term case="nominative" dediacritic="محببتان" number="dual" sex="female" value="مُحْبِبَتَانِ"/>
+              <term case="nominative" dediacritic="محببون" number="plural" sex="male" value="مُحْبِبُونَ"/>
+              <term case="nominative" dediacritic="محببات" number="plural" sex="female" value="مُحْبِبَاتٌ"/>
+              <term case="accussative" dediacritic="محببا" number="single" sex="male" value="مُحْبِبًا"/>
+              <term case="accussative" dediacritic="محببة" number="single" sex="female" value="مُحْبِبَةً"/>
+              <term case="accussative" dediacritic="محببين" number="dual" sex="male" value="مُحْبِبَيْنِ"/>
+              <term case="accussative" dediacritic="محببتين" number="dual" sex="female" value="مُحْبِبَتَيْنِ"/>
+              <term case="accussative" dediacritic="محببين" number="plural" sex="male" value="مُحْبِبِينَ"/>
+              <term case="accussative" dediacritic="محببات" number="plural" sex="female" value="مُحْبِبَاتٍ"/>
+              <term case="jussitive" dediacritic="محبب" number="single" sex="male" value="مُحْبِبٍ"/>
+              <term case="jussitive" dediacritic="محببة" number="single" sex="female" value="مُحْبِبَةٍ"/>
+              <term case="jussitive" dediacritic="محببين" number="dual" sex="male" value="مُحْبِبَيْنِ"/>
+              <term case="jussitive" dediacritic="محببتين" number="dual" sex="female" value="مُحْبِبَتَيْنِ"/>
+              <term case="jussitive" dediacritic="محببين" number="plural" sex="male" value="مُحْبِبِينَ"/>
+              <term case="jussitive" dediacritic="محببات" number="plural" sex="female" value="مُحْبِبَاتٍ"/>
+            </indefinite>
+          </subject>
+          <object>
+            <indefinite>
+              <term case="nominative" dediacritic="محبب" number="single" sex="male" value="مُحْبَبٌ"/>
+              <term case="nominative" dediacritic="محببة" number="single" sex="female" value="مُحْبَبَةٌ"/>
+              <term case="nominative" dediacritic="محببان" number="dual" sex="male" value="مُحْبَبَانِ"/>
+              <term case="nominative" dediacritic="محببتان" number="dual" sex="female" value="مُحْبَبَتَانِ"/>
+              <term case="nominative" dediacritic="محببون" number="plural" sex="male" value="مُحْبَبُونَ"/>
+              <term case="nominative" dediacritic="محببات" number="plural" sex="female" value="مُحْبَبَاتٌ"/>
+              <term case="accussative" dediacritic="محببا" number="single" sex="male" value="مُحْبَبًا"/>
+              <term case="accussative" dediacritic="محببة" number="single" sex="female" value="مُحْبَبَةً"/>
+              <term case="accussative" dediacritic="محببين" number="dual" sex="male" value="مُحْبَبَيْنِ"/>
+              <term case="accussative" dediacritic="محببتين" number="dual" sex="female" value="مُحْبَبَتَيْنِ"/>
+              <term case="accussative" dediacritic="محببين" number="plural" sex="male" value="مُحْبَبِينَ"/>
+              <term case="accussative" dediacritic="محببات" number="plural" sex="female" value="مُحْبَبَاتٍ"/>
+              <term case="jussitive" dediacritic="محبب" number="single" sex="male" value="مُحْبَبٍ"/>
+              <term case="jussitive" dediacritic="محببة" number="single" sex="female" value="مُحْبَبَةٍ"/>
+              <term case="jussitive" dediacritic="محببين" number="dual" sex="male" value="مُحْبَبَيْنِ"/>
+              <term case="jussitive" dediacritic="محببتين" number="dual" sex="female" value="مُحْبَبَتَيْنِ"/>
+              <term case="jussitive" dediacritic="محببين" number="plural" sex="male" value="مُحْبَبِينَ"/>
+              <term case="jussitive" dediacritic="محببات" number="plural" sex="female" value="مُحْبَبَاتٍ"/>
+            </indefinite>
+          </object>
+          <timePlace>
+            <indefinite>
+              <term case="nominative" dediacritic="محبب" number="single" sex="male" value="مُحْبَبٌ"/>
+              <term case="nominative" dediacritic="محببان" number="dual" sex="male" value="مُحْبَبَانِ"/>
+              <term case="accussative" dediacritic="محببا" number="single" sex="male" value="مُحْبَبًا"/>
+              <term case="accussative" dediacritic="محببين" number="dual" sex="male" value="مُحْبَبَيْنِ"/>
+              <term case="jussitive" dediacritic="محبب" number="single" sex="male" value="مُحْبَبٍ"/>
+              <term case="jussitive" dediacritic="محببين" number="dual" sex="male" value="مُحْبَبَيْنِ"/>
+            </indefinite>
+          </timePlace>
+        </nounDerviation>
+        <gerund>
+          <meem>
+            <indefinite>
+              <term case="nominative" dediacritic="محبب" number="single" sex="male" value="مُحْبَبٌ"/>
+              <term case="accussative" dediacritic="محببا" number="single" sex="male" value="مُحْبَبًا"/>
+              <term case="jussitive" dediacritic="محبب" number="single" sex="male" value="مُحْبَبٍ"/>
+            </indefinite>
+          </meem>
+        </gerund>
+      </conjuagtion>
+      <conjuagtion id="2">
+        <past>
+          <term value="حَبَّبَ"/>
+        </past>
+        <present>
+          <term value="يُحَبِّبُ"/>
+        </present>
+        <verbConjugation>
+          <activeVerb>
+            <past>
+              <term dediacritic="حببت" pronoun="أنا" value="حَبَّبْتُ"/>
+              <term dediacritic="حببنا" pronoun="نحن" value="حَبَّبْنَا"/>
+              <term dediacritic="حببت" pronoun="أنتَ" value="حَبَّبْتَ"/>
+              <term dediacritic="حببت" pronoun="أنتِ" value="حَبَّبْتِ"/>
+              <term dediacritic="حببتما" pronoun="أنتما" value="حَبَّبْتُمَا"/>
+              <term dediacritic="حببتم" pronoun="أنتم" value="حَبَّبْتُمْ"/>
+              <term dediacritic="حببتن" pronoun="أنتنُّ" value="حَبَّبْتُنَّ"/>
+              <term dediacritic="حبب" pronoun="هو" value="حَبَّبَ"/>
+              <term dediacritic="حببت" pronoun="هي" value="حَبَّبَتْ"/>
+              <term dediacritic="حببا" pronoun="هما" value="حَبَّبَا"/>
+              <term dediacritic="حببتا" pronoun="هما2" value="حَبَّبَتَا"/>
+              <term dediacritic="حببوا" pronoun="هم" value="حَبَّبُوا"/>
+              <term dediacritic="حببن" pronoun="هنُّ" value="حَبَّبْنَ"/>
+            </past>
+            <nominativePresent>
+              <term dediacritic="أحبب" pronoun="أنا" value="أُحَبِّبُ"/>
+              <term dediacritic="نحبب" pronoun="نحن" value="نُحَبِّبُ"/>
+              <term dediacritic="تحبب" pronoun="أنتَ" value="تُحَبِّبُ"/>
+              <term dediacritic="تحببين" pronoun="أنتِ" value="تُحَبِّبِينَ"/>
+              <term dediacritic="تحببان" pronoun="أنتما" value="تُحَبِّبَانِ"/>
+              <term dediacritic="تحببون" pronoun="أنتم" value="تُحَبِّبُونَ"/>
+              <term dediacritic="تحببن" pronoun="أنتنُّ" value="تُحَبِّبْنَ"/>
+              <term dediacritic="يحبب" pronoun="هو" value="يُحَبِّبُ"/>
+              <term dediacritic="تحبب" pronoun="هي" value="تُحَبِّبُ"/>
+              <term dediacritic="يحببان" pronoun="هما" value="يُحَبِّبَانِ"/>
+              <term dediacritic="تحببان" pronoun="هما2" value="تُحَبِّبَانِ"/>
+              <term dediacritic="يحببون" pronoun="هم" value="يُحَبِّبُونَ"/>
+              <term dediacritic="يحببن" pronoun="هنُّ" value="يُحَبِّبْنَ"/>
+            </nominativePresent>
+            <accusativePresent>
+              <term dediacritic="أحبب" pronoun="أنا" value="أُحَبِّبَ"/>
+              <term dediacritic="نحبب" pronoun="نحن" value="نُحَبِّبَ"/>
+              <term dediacritic="تحبب" pronoun="أنتَ" value="تُحَبِّبَ"/>
+              <term dediacritic="تحببي" pronoun="أنتِ" value="تُحَبِّبِي"/>
+              <term dediacritic="تحببا" pronoun="أنتما" value="تُحَبِّبَا"/>
+              <term dediacritic="تحببوا" pronoun="أنتم" value="تُحَبِّبُوا"/>
+              <term dediacritic="تحببن" pronoun="أنتنُّ" value="تُحَبِّبْنَ"/>
+              <term dediacritic="يحبب" pronoun="هو" value="يُحَبِّبَ"/>
+              <term dediacritic="تحبب" pronoun="هي" value="تُحَبِّبَ"/>
+              <term dediacritic="يحببا" pronoun="هما" value="يُحَبِّبَا"/>
+              <term dediacritic="تحببا" pronoun="هما2" value="تُحَبِّبَا"/>
+              <term dediacritic="يحببوا" pronoun="هم" value="يُحَبِّبُوا"/>
+              <term dediacritic="يحببن" pronoun="هنُّ" value="يُحَبِّبْنَ"/>
+            </accusativePresent>
+            <jussitivePresent>
+              <term dediacritic="أحبب" pronoun="أنا" value="أُحَبِّبْ"/>
+              <term dediacritic="نحبب" pronoun="نحن" value="نُحَبِّبْ"/>
+              <term dediacritic="تحبب" pronoun="أنتَ" value="تُحَبِّبْ"/>
+              <term dediacritic="تحببي" pronoun="أنتِ" value="تُحَبِّبِي"/>
+              <term dediacritic="تحببا" pronoun="أنتما" value="تُحَبِّبَا"/>
+              <term dediacritic="تحببوا" pronoun="أنتم" value="تُحَبِّبُوا"/>
+              <term dediacritic="تحببن" pronoun="أنتنُّ" value="تُحَبِّبْنَ"/>
+              <term dediacritic="يحبب" pronoun="هو" value="يُحَبِّبْ"/>
+              <term dediacritic="تحبب" pronoun="هي" value="تُحَبِّبْ"/>
+              <term dediacritic="يحببا" pronoun="هما" value="يُحَبِّبَا"/>
+              <term dediacritic="تحببا" pronoun="هما2" value="تُحَبِّبَا"/>
+              <term dediacritic="يحببوا" pronoun="هم" value="يُحَبِّبُوا"/>
+              <term dediacritic="يحببن" pronoun="هنُّ" value="يُحَبِّبْنَ"/>
+            </jussitivePresent>
+            <emphasize>
+              <term dediacritic="أحببن" pronoun="أنا" value="أُحَبِّبَنَّ"/>
+              <term dediacritic="نحببن" pronoun="نحن" value="نُحَبِّبَنَّ"/>
+              <term dediacritic="تحببن" pronoun="أنتَ" value="تُحَبِّبَنَّ"/>
+              <term dediacritic="تحببن" pronoun="أنتِ" value="تُحَبِّبِنَّ"/>
+              <term dediacritic="تحببان" pronoun="أنتما" value="تُحَبِّبَانِّ"/>
+              <term dediacritic="تحببن" pronoun="أنتم" value="تُحَبِّبُنَّ"/>
+              <term dediacritic="تحببنان" pronoun="أنتنُّ" value="تُحَبِّبْنَانِّ"/>
+              <term dediacritic="يحببن" pronoun="هو" value="يُحَبِّبَنَّ"/>
+              <term dediacritic="تحببن" pronoun="هي" value="تُحَبِّبَنَّ"/>
+              <term dediacritic="يحببان" pronoun="هما" value="يُحَبِّبَانِّ"/>
+              <term dediacritic="تحببان" pronoun="هما2" value="تُحَبِّبَانِّ"/>
+              <term dediacritic="يحببن" pronoun="هم" value="يُحَبِّبُنَّ"/>
+              <term dediacritic="يحببنان" pronoun="هنُّ" value="يُحَبِّبْنَانِّ"/>
+            </emphasize>
+            <imperative>
+              <term dediacritic="حببن" pronoun="أنتَ" value="حَبِّبَنَّ"/>
+              <term dediacritic="حببن" pronoun="أنتِ" value="حَبِّبِنَّ"/>
+              <term dediacritic="حببان" pronoun="أنتما" value="حَبِّبَانِّ"/>
+              <term dediacritic="حببن" pronoun="أنتم" value="حَبِّبُنَّ"/>
+              <term dediacritic="حببنان" pronoun="أنتنُّ" value="حَبِّبْنَانِّ"/>
+            </imperative>
+            <emphEmperative>
+              <term dediacritic="حببن" pronoun="أنتَ" value="حَبِّبَنَّ"/>
+              <term dediacritic="حببن" pronoun="أنتِ" value="حَبِّبِنَّ"/>
+              <term dediacritic="حببان" pronoun="أنتما" value="حَبِّبَانِّ"/>
+              <term dediacritic="حببن" pronoun="أنتم" value="حَبِّبُنَّ"/>
+              <term dediacritic="حببنان" pronoun="أنتنُّ" value="حَبِّبْنَانِّ"/>
+            </emphEmperative>
+          </activeVerb>
+          <passiveVerb>
+            <past>
+              <term dediacritic="حببت" pronoun="أنا" value="حُبِّبْتُ"/>
+              <term dediacritic="حببنا" pronoun="نحن" value="حُبِّبْنَا"/>
+              <term dediacritic="حببت" pronoun="أنتَ" value="حُبِّبْتَ"/>
+              <term dediacritic="حببت" pronoun="أنتِ" value="حُبِّبْتِ"/>
+              <term dediacritic="حببتما" pronoun="أنتما" value="حُبِّبْتُمَا"/>
+              <term dediacritic="حببتم" pronoun="أنتم" value="حُبِّبْتُمْ"/>
+              <term dediacritic="حببتن" pronoun="أنتنُّ" value="حُبِّبْتُنَّ"/>
+              <term dediacritic="حبب" pronoun="هو" value="حُبِّبَ"/>
+              <term dediacritic="حببت" pronoun="هي" value="حُبِّبَتْ"/>
+              <term dediacritic="حببا" pronoun="هما" value="حُبِّبَا"/>
+              <term dediacritic="حببتا" pronoun="هما2" value="حُبِّبَتَا"/>
+              <term dediacritic="حببوا" pronoun="هم" value="حُبِّبُوا"/>
+              <term dediacritic="حببن" pronoun="هنُّ" value="حُبِّبْنَ"/>
+            </past>
+            <nominativePresent>
+              <term dediacritic="أحبب" pronoun="أنا" value="أُحَبَّبُ"/>
+              <term dediacritic="نحبب" pronoun="نحن" value="نُحَبَّبُ"/>
+              <term dediacritic="تحبب" pronoun="أنتَ" value="تُحَبَّبُ"/>
+              <term dediacritic="تحببين" pronoun="أنتِ" value="تُحَبَّبِينَ"/>
+              <term dediacritic="تحببان" pronoun="أنتما" value="تُحَبَّبَانِ"/>
+              <term dediacritic="تحببون" pronoun="أنتم" value="تُحَبَّبُونَ"/>
+              <term dediacritic="تحببن" pronoun="أنتنُّ" value="تُحَبَّبْنَ"/>
+              <term dediacritic="يحبب" pronoun="هو" value="يُحَبَّبُ"/>
+              <term dediacritic="تحبب" pronoun="هي" value="تُحَبَّبُ"/>
+              <term dediacritic="يحببان" pronoun="هما" value="يُحَبَّبَانِ"/>
+              <term dediacritic="تحببان" pronoun="هما2" value="تُحَبَّبَانِ"/>
+              <term dediacritic="يحببون" pronoun="هم" value="يُحَبَّبُونَ"/>
+              <term dediacritic="يحببن" pronoun="هنُّ" value="يُحَبَّبْنَ"/>
+            </nominativePresent>
+            <accusativePresent>
+              <term dediacritic="أحبب" pronoun="أنا" value="أُحَبَّبَ"/>
+              <term dediacritic="نحبب" pronoun="نحن" value="نُحَبَّبَ"/>
+              <term dediacritic="تحبب" pronoun="أنتَ" value="تُحَبَّبَ"/>
+              <term dediacritic="تحببي" pronoun="أنتِ" value="تُحَبَّبِي"/>
+              <term dediacritic="تحببا" pronoun="أنتما" value="تُحَبَّبَا"/>
+              <term dediacritic="تحببوا" pronoun="أنتم" value="تُحَبَّبُوا"/>
+              <term dediacritic="تحببن" pronoun="أنتنُّ" value="تُحَبَّبْنَ"/>
+              <term dediacritic="يحبب" pronoun="هو" value="يُحَبَّبَ"/>
+              <term dediacritic="تحبب" pronoun="هي" value="تُحَبَّبَ"/>
+              <term dediacritic="يحببا" pronoun="هما" value="يُحَبَّبَا"/>
+              <term dediacritic="تحببا" pronoun="هما2" value="تُحَبَّبَا"/>
+              <term dediacritic="يحببوا" pronoun="هم" value="يُحَبَّبُوا"/>
+              <term dediacritic="يحببن" pronoun="هنُّ" value="يُحَبَّبْنَ"/>
+            </accusativePresent>
+            <jussitivePresent>
+              <term dediacritic="أحبب" pronoun="أنا" value="أُحَبَّبْ"/>
+              <term dediacritic="نحبب" pronoun="نحن" value="نُحَبَّبْ"/>
+              <term dediacritic="تحبب" pronoun="أنتَ" value="تُحَبَّبْ"/>
+              <term dediacritic="تحببي" pronoun="أنتِ" value="تُحَبَّبِي"/>
+              <term dediacritic="تحببا" pronoun="أنتما" value="تُحَبَّبَا"/>
+              <term dediacritic="تحببوا" pronoun="أنتم" value="تُحَبَّبُوا"/>
+              <term dediacritic="تحببن" pronoun="أنتنُّ" value="تُحَبَّبْنَ"/>
+              <term dediacritic="يحبب" pronoun="هو" value="يُحَبَّبْ"/>
+              <term dediacritic="تحبب" pronoun="هي" value="تُحَبَّبْ"/>
+              <term dediacritic="يحببا" pronoun="هما" value="يُحَبَّبَا"/>
+              <term dediacritic="تحببا" pronoun="هما2" value="تُحَبَّبَا"/>
+              <term dediacritic="يحببوا" pronoun="هم" value="يُحَبَّبُوا"/>
+              <term dediacritic="يحببن" pronoun="هنُّ" value="يُحَبَّبْنَ"/>
+            </jussitivePresent>
+            <emphasize>
+              <term dediacritic="أحببن" pronoun="أنا" value="أُحَبَّبَنَّ"/>
+              <term dediacritic="نحببن" pronoun="نحن" value="نُحَبَّبَنَّ"/>
+              <term dediacritic="تحببن" pronoun="أنتَ" value="تُحَبَّبَنَّ"/>
+              <term dediacritic="تحببن" pronoun="أنتِ" value="تُحَبَّبِنَّ"/>
+              <term dediacritic="تحببان" pronoun="أنتما" value="تُحَبَّبَانِّ"/>
+              <term dediacritic="تحببن" pronoun="أنتم" value="تُحَبَّبُنَّ"/>
+              <term dediacritic="تحببنان" pronoun="أنتنُّ" value="تُحَبَّبْنَانِّ"/>
+              <term dediacritic="يحببن" pronoun="هو" value="يُحَبَّبَنَّ"/>
+              <term dediacritic="تحببن" pronoun="هي" value="تُحَبَّبَنَّ"/>
+              <term dediacritic="يحببان" pronoun="هما" value="يُحَبَّبَانِّ"/>
+              <term dediacritic="تحببان" pronoun="هما2" value="تُحَبَّبَانِّ"/>
+              <term dediacritic="يحببن" pronoun="هم" value="يُحَبَّبُنَّ"/>
+              <term dediacritic="يحببنان" pronoun="هنُّ" value="يُحَبَّبْنَانِّ"/>
+            </emphasize>
+          </passiveVerb>
+        </verbConjugation>
+        <nounDerviation>
+          <subject>
+            <indefinite>
+              <term case="nominative" dediacritic="محبب" number="single" sex="male" value="مُحَبِّبٌ"/>
+              <term case="nominative" dediacritic="محببة" number="single" sex="female" value="مُحَبِّبَةٌ"/>
+              <term case="nominative" dediacritic="محببان" number="dual" sex="male" value="مُحَبِّبَانِ"/>
+              <term case="nominative" dediacritic="محببتان" number="dual" sex="female" value="مُحَبِّبَتَانِ"/>
+              <term case="nominative" dediacritic="محببون" number="plural" sex="male" value="مُحَبِّبُونَ"/>
+              <term case="nominative" dediacritic="محببات" number="plural" sex="female" value="مُحَبِّبَاتٌ"/>
+              <term case="accussative" dediacritic="محببا" number="single" sex="male" value="مُحَبِّبًا"/>
+              <term case="accussative" dediacritic="محببة" number="single" sex="female" value="مُحَبِّبَةً"/>
+              <term case="accussative" dediacritic="محببين" number="dual" sex="male" value="مُحَبِّبَيْنِ"/>
+              <term case="accussative" dediacritic="محببتين" number="dual" sex="female" value="مُحَبِّبَتَيْنِ"/>
+              <term case="accussative" dediacritic="محببين" number="plural" sex="male" value="مُحَبِّبِينَ"/>
+              <term case="accussative" dediacritic="محببات" number="plural" sex="female" value="مُحَبِّبَاتٍ"/>
+              <term case="jussitive" dediacritic="محبب" number="single" sex="male" value="مُحَبِّبٍ"/>
+              <term case="jussitive" dediacritic="محببة" number="single" sex="female" value="مُحَبِّبَةٍ"/>
+              <term case="jussitive" dediacritic="محببين" number="dual" sex="male" value="مُحَبِّبَيْنِ"/>
+              <term case="jussitive" dediacritic="محببتين" number="dual" sex="female" value="مُحَبِّبَتَيْنِ"/>
+              <term case="jussitive" dediacritic="محببين" number="plural" sex="male" value="مُحَبِّبِينَ"/>
+              <term case="jussitive" dediacritic="محببات" number="plural" sex="female" value="مُحَبِّبَاتٍ"/>
+            </indefinite>
+          </subject>
+          <object>
+            <indefinite>
+              <term case="nominative" dediacritic="محبب" number="single" sex="male" value="مُحَبَّبٌ"/>
+              <term case="nominative" dediacritic="محببة" number="single" sex="female" value="مُحَبَّبَةٌ"/>
+              <term case="nominative" dediacritic="محببان" number="dual" sex="male" value="مُحَبَّبَانِ"/>
+              <term case="nominative" dediacritic="محببتان" number="dual" sex="female" value="مُحَبَّبَتَانِ"/>
+              <term case="nominative" dediacritic="محببون" number="plural" sex="male" value="مُحَبَّبُونَ"/>
+              <term case="nominative" dediacritic="محببات" number="plural" sex="female" value="مُحَبَّبَاتٌ"/>
+              <term case="accussative" dediacritic="محببا" number="single" sex="male" value="مُحَبَّبًا"/>
+              <term case="accussative" dediacritic="محببة" number="single" sex="female" value="مُحَبَّبَةً"/>
+              <term case="accussative" dediacritic="محببين" number="dual" sex="male" value="مُحَبَّبَيْنِ"/>
+              <term case="accussative" dediacritic="محببتين" number="dual" sex="female" value="مُحَبَّبَتَيْنِ"/>
+              <term case="accussative" dediacritic="محببين" number="plural" sex="male" value="مُحَبَّبِينَ"/>
+              <term case="accussative" dediacritic="محببات" number="plural" sex="female" value="مُحَبَّبَاتٍ"/>
+              <term case="jussitive" dediacritic="محبب" number="single" sex="male" value="مُحَبَّبٍ"/>
+              <term case="jussitive" dediacritic="محببة" number="single" sex="female" value="مُحَبَّبَةٍ"/>
+              <term case="jussitive" dediacritic="محببين" number="dual" sex="male" value="مُحَبَّبَيْنِ"/>
+              <term case="jussitive" dediacritic="محببتين" number="dual" sex="female" value="مُحَبَّبَتَيْنِ"/>
+              <term case="jussitive" dediacritic="محببين" number="plural" sex="male" value="مُحَبَّبِينَ"/>
+              <term case="jussitive" dediacritic="محببات" number="plural" sex="female" value="مُحَبَّبَاتٍ"/>
+            </indefinite>
+          </object>
+          <timePlace>
+            <indefinite>
+              <term case="nominative" dediacritic="محبب" number="single" sex="male" value="مُحَبَّبٌ"/>
+              <term case="nominative" dediacritic="محببان" number="dual" sex="male" value="مُحَبَّبَانِ"/>
+              <term case="accussative" dediacritic="محببا" number="single" sex="male" value="مُحَبَّبًا"/>
+              <term case="accussative" dediacritic="محببين" number="dual" sex="male" value="مُحَبَّبَيْنِ"/>
+              <term case="jussitive" dediacritic="محبب" number="single" sex="male" value="مُحَبَّبٍ"/>
+              <term case="jussitive" dediacritic="محببين" number="dual" sex="male" value="مُحَبَّبَيْنِ"/>
+            </indefinite>
+          </timePlace>
+        </nounDerviation>
+        <gerund>
+          <meem>
+            <indefinite>
+              <term case="nominative" dediacritic="محبب" number="single" sex="male" value="مُحَبَّبٌ"/>
+              <term case="accussative" dediacritic="محببا" number="single" sex="male" value="مُحَبَّبًا"/>
+              <term case="jussitive" dediacritic="محبب" number="single" sex="male" value="مُحَبَّبٍ"/>
+            </indefinite>
+          </meem>
+        </gerund>
+      </conjuagtion>
+      <conjuagtion id="3">
+        <past>
+          <term value="حَابَبَ"/>
+        </past>
+        <present>
+          <term value="يُحَابِبُ"/>
+        </present>
+        <verbConjugation>
+          <activeVerb>
+            <past>
+              <term dediacritic="حاببت" pronoun="أنا" value="حَابَبْتُ"/>
+              <term dediacritic="حاببنا" pronoun="نحن" value="حَابَبْنَا"/>
+              <term dediacritic="حاببت" pronoun="أنتَ" value="حَابَبْتَ"/>
+              <term dediacritic="حاببت" pronoun="أنتِ" value="حَابَبْتِ"/>
+              <term dediacritic="حاببتما" pronoun="أنتما" value="حَابَبْتُمَا"/>
+              <term dediacritic="حاببتم" pronoun="أنتم" value="حَابَبْتُمْ"/>
+              <term dediacritic="حاببتن" pronoun="أنتنُّ" value="حَابَبْتُنَّ"/>
+              <term dediacritic="حابب" pronoun="هو" value="حَابَبَ"/>
+              <term dediacritic="حاببت" pronoun="هي" value="حَابَبَتْ"/>
+              <term dediacritic="حاببا" pronoun="هما" value="حَابَبَا"/>
+              <term dediacritic="حاببتا" pronoun="هما2" value="حَابَبَتَا"/>
+              <term dediacritic="حاببوا" pronoun="هم" value="حَابَبُوا"/>
+              <term dediacritic="حاببن" pronoun="هنُّ" value="حَابَبْنَ"/>
+            </past>
+            <nominativePresent>
+              <term dediacritic="أحابب" pronoun="أنا" value="أُحَابِبُ"/>
+              <term dediacritic="نحابب" pronoun="نحن" value="نُحَابِبُ"/>
+              <term dediacritic="تحابب" pronoun="أنتَ" value="تُحَابِبُ"/>
+              <term dediacritic="تحاببين" pronoun="أنتِ" value="تُحَابِبِينَ"/>
+              <term dediacritic="تحاببان" pronoun="أنتما" value="تُحَابِبَانِ"/>
+              <term dediacritic="تحاببون" pronoun="أنتم" value="تُحَابِبُونَ"/>
+              <term dediacritic="تحاببن" pronoun="أنتنُّ" value="تُحَابِبْنَ"/>
+              <term dediacritic="يحابب" pronoun="هو" value="يُحَابِبُ"/>
+              <term dediacritic="تحابب" pronoun="هي" value="تُحَابِبُ"/>
+              <term dediacritic="يحاببان" pronoun="هما" value="يُحَابِبَانِ"/>
+              <term dediacritic="تحاببان" pronoun="هما2" value="تُحَابِبَانِ"/>
+              <term dediacritic="يحاببون" pronoun="هم" value="يُحَابِبُونَ"/>
+              <term dediacritic="يحاببن" pronoun="هنُّ" value="يُحَابِبْنَ"/>
+            </nominativePresent>
+            <accusativePresent>
+              <term dediacritic="أحابب" pronoun="أنا" value="أُحَابِبَ"/>
+              <term dediacritic="نحابب" pronoun="نحن" value="نُحَابِبَ"/>
+              <term dediacritic="تحابب" pronoun="أنتَ" value="تُحَابِبَ"/>
+              <term dediacritic="تحاببي" pronoun="أنتِ" value="تُحَابِبِي"/>
+              <term dediacritic="تحاببا" pronoun="أنتما" value="تُحَابِبَا"/>
+              <term dediacritic="تحاببوا" pronoun="أنتم" value="تُحَابِبُوا"/>
+              <term dediacritic="تحاببن" pronoun="أنتنُّ" value="تُحَابِبْنَ"/>
+              <term dediacritic="يحابب" pronoun="هو" value="يُحَابِبَ"/>
+              <term dediacritic="تحابب" pronoun="هي" value="تُحَابِبَ"/>
+              <term dediacritic="يحاببا" pronoun="هما" value="يُحَابِبَا"/>
+              <term dediacritic="تحاببا" pronoun="هما2" value="تُحَابِبَا"/>
+              <term dediacritic="يحاببوا" pronoun="هم" value="يُحَابِبُوا"/>
+              <term dediacritic="يحاببن" pronoun="هنُّ" value="يُحَابِبْنَ"/>
+            </accusativePresent>
+            <jussitivePresent>
+              <term dediacritic="أحابب" pronoun="أنا" value="أُحَابِبْ"/>
+              <term dediacritic="نحابب" pronoun="نحن" value="نُحَابِبْ"/>
+              <term dediacritic="تحابب" pronoun="أنتَ" value="تُحَابِبْ"/>
+              <term dediacritic="تحاببي" pronoun="أنتِ" value="تُحَابِبِي"/>
+              <term dediacritic="تحاببا" pronoun="أنتما" value="تُحَابِبَا"/>
+              <term dediacritic="تحاببوا" pronoun="أنتم" value="تُحَابِبُوا"/>
+              <term dediacritic="تحاببن" pronoun="أنتنُّ" value="تُحَابِبْنَ"/>
+              <term dediacritic="يحابب" pronoun="هو" value="يُحَابِبْ"/>
+              <term dediacritic="تحابب" pronoun="هي" value="تُحَابِبْ"/>
+              <term dediacritic="يحاببا" pronoun="هما" value="يُحَابِبَا"/>
+              <term dediacritic="تحاببا" pronoun="هما2" value="تُحَابِبَا"/>
+              <term dediacritic="يحاببوا" pronoun="هم" value="يُحَابِبُوا"/>
+              <term dediacritic="يحاببن" pronoun="هنُّ" value="يُحَابِبْنَ"/>
+            </jussitivePresent>
+            <emphasize>
+              <term dediacritic="أحاببن" pronoun="أنا" value="أُحَابِبَنَّ"/>
+              <term dediacritic="نحاببن" pronoun="نحن" value="نُحَابِبَنَّ"/>
+              <term dediacritic="تحاببن" pronoun="أنتَ" value="تُحَابِبَنَّ"/>
+              <term dediacritic="تحاببن" pronoun="أنتِ" value="تُحَابِبِنَّ"/>
+              <term dediacritic="تحاببان" pronoun="أنتما" value="تُحَابِبَانِّ"/>
+              <term dediacritic="تحاببن" pronoun="أنتم" value="تُحَابِبُنَّ"/>
+              <term dediacritic="تحاببنان" pronoun="أنتنُّ" value="تُحَابِبْنَانِّ"/>
+              <term dediacritic="يحاببن" pronoun="هو" value="يُحَابِبَنَّ"/>
+              <term dediacritic="تحاببن" pronoun="هي" value="تُحَابِبَنَّ"/>
+              <term dediacritic="يحاببان" pronoun="هما" value="يُحَابِبَانِّ"/>
+              <term dediacritic="تحاببان" pronoun="هما2" value="تُحَابِبَانِّ"/>
+              <term dediacritic="يحاببن" pronoun="هم" value="يُحَابِبُنَّ"/>
+              <term dediacritic="يحاببنان" pronoun="هنُّ" value="يُحَابِبْنَانِّ"/>
+            </emphasize>
+            <imperative>
+              <term dediacritic="حاببن" pronoun="أنتَ" value="حَابِبَنَّ"/>
+              <term dediacritic="حاببن" pronoun="أنتِ" value="حَابِبِنَّ"/>
+              <term dediacritic="حاببان" pronoun="أنتما" value="حَابِبَانِّ"/>
+              <term dediacritic="حاببن" pronoun="أنتم" value="حَابِبُنَّ"/>
+              <term dediacritic="حاببنان" pronoun="أنتنُّ" value="حَابِبْنَانِّ"/>
+            </imperative>
+            <emphEmperative>
+              <term dediacritic="حاببن" pronoun="أنتَ" value="حَابِبَنَّ"/>
+              <term dediacritic="حاببن" pronoun="أنتِ" value="حَابِبِنَّ"/>
+              <term dediacritic="حاببان" pronoun="أنتما" value="حَابِبَانِّ"/>
+              <term dediacritic="حاببن" pronoun="أنتم" value="حَابِبُنَّ"/>
+              <term dediacritic="حاببنان" pronoun="أنتنُّ" value="حَابِبْنَانِّ"/>
+            </emphEmperative>
+          </activeVerb>
+          <passiveVerb>
+            <past>
+              <term dediacritic="حوببت" pronoun="أنا" value="حُوبِبْتُ"/>
+              <term dediacritic="حوببنا" pronoun="نحن" value="حُوبِبْنَا"/>
+              <term dediacritic="حوببت" pronoun="أنتَ" value="حُوبِبْتَ"/>
+              <term dediacritic="حوببت" pronoun="أنتِ" value="حُوبِبْتِ"/>
+              <term dediacritic="حوببتما" pronoun="أنتما" value="حُوبِبْتُمَا"/>
+              <term dediacritic="حوببتم" pronoun="أنتم" value="حُوبِبْتُمْ"/>
+              <term dediacritic="حوببتن" pronoun="أنتنُّ" value="حُوبِبْتُنَّ"/>
+              <term dediacritic="حوبب" pronoun="هو" value="حُوبِبَ"/>
+              <term dediacritic="حوببت" pronoun="هي" value="حُوبِبَتْ"/>
+              <term dediacritic="حوببا" pronoun="هما" value="حُوبِبَا"/>
+              <term dediacritic="حوببتا" pronoun="هما2" value="حُوبِبَتَا"/>
+              <term dediacritic="حوببوا" pronoun="هم" value="حُوبِبُوا"/>
+              <term dediacritic="حوببن" pronoun="هنُّ" value="حُوبِبْنَ"/>
+            </past>
+            <nominativePresent>
+              <term dediacritic="أحابب" pronoun="أنا" value="أُحَابَبُ"/>
+              <term dediacritic="نحابب" pronoun="نحن" value="نُحَابَبُ"/>
+              <term dediacritic="تحابب" pronoun="أنتَ" value="تُحَابَبُ"/>
+              <term dediacritic="تحاببين" pronoun="أنتِ" value="تُحَابَبِينَ"/>
+              <term dediacritic="تحاببان" pronoun="أنتما" value="تُحَابَبَانِ"/>
+              <term dediacritic="تحاببون" pronoun="أنتم" value="تُحَابَبُونَ"/>
+              <term dediacritic="تحاببن" pronoun="أنتنُّ" value="تُحَابَبْنَ"/>
+              <term dediacritic="يحابب" pronoun="هو" value="يُحَابَبُ"/>
+              <term dediacritic="تحابب" pronoun="هي" value="تُحَابَبُ"/>
+              <term dediacritic="يحاببان" pronoun="هما" value="يُحَابَبَانِ"/>
+              <term dediacritic="تحاببان" pronoun="هما2" value="تُحَابَبَانِ"/>
+              <term dediacritic="يحاببون" pronoun="هم" value="يُحَابَبُونَ"/>
+              <term dediacritic="يحاببن" pronoun="هنُّ" value="يُحَابَبْنَ"/>
+            </nominativePresent>
+            <accusativePresent>
+              <term dediacritic="أحابب" pronoun="أنا" value="أُحَابَبَ"/>
+              <term dediacritic="نحابب" pronoun="نحن" value="نُحَابَبَ"/>
+              <term dediacritic="تحابب" pronoun="أنتَ" value="تُحَابَبَ"/>
+              <term dediacritic="تحاببي" pronoun="أنتِ" value="تُحَابَبِي"/>
+              <term dediacritic="تحاببا" pronoun="أنتما" value="تُحَابَبَا"/>
+              <term dediacritic="تحاببوا" pronoun="أنتم" value="تُحَابَبُوا"/>
+              <term dediacritic="تحاببن" pronoun="أنتنُّ" value="تُحَابَبْنَ"/>
+              <term dediacritic="يحابب" pronoun="هو" value="يُحَابَبَ"/>
+              <term dediacritic="تحابب" pronoun="هي" value="تُحَابَبَ"/>
+              <term dediacritic="يحاببا" pronoun="هما" value="يُحَابَبَا"/>
+              <term dediacritic="تحاببا" pronoun="هما2" value="تُحَابَبَا"/>
+              <term dediacritic="يحاببوا" pronoun="هم" value="يُحَابَبُوا"/>
+              <term dediacritic="يحاببن" pronoun="هنُّ" value="يُحَابَبْنَ"/>
+            </accusativePresent>
+            <jussitivePresent>
+              <term dediacritic="أحابب" pronoun="أنا" value="أُحَابَبْ"/>
+              <term dediacritic="نحابب" pronoun="نحن" value="نُحَابَبْ"/>
+              <term dediacritic="تحابب" pronoun="أنتَ" value="تُحَابَبْ"/>
+              <term dediacritic="تحاببي" pronoun="أنتِ" value="تُحَابَبِي"/>
+              <term dediacritic="تحاببا" pronoun="أنتما" value="تُحَابَبَا"/>
+              <term dediacritic="تحاببوا" pronoun="أنتم" value="تُحَابَبُوا"/>
+              <term dediacritic="تحاببن" pronoun="أنتنُّ" value="تُحَابَبْنَ"/>
+              <term dediacritic="يحابب" pronoun="هو" value="يُحَابَبْ"/>
+              <term dediacritic="تحابب" pronoun="هي" value="تُحَابَبْ"/>
+              <term dediacritic="يحاببا" pronoun="هما" value="يُحَابَبَا"/>
+              <term dediacritic="تحاببا" pronoun="هما2" value="تُحَابَبَا"/>
+              <term dediacritic="يحاببوا" pronoun="هم" value="يُحَابَبُوا"/>
+              <term dediacritic="يحاببن" pronoun="هنُّ" value="يُحَابَبْنَ"/>
+            </jussitivePresent>
+            <emphasize>
+              <term dediacritic="أحاببن" pronoun="أنا" value="أُحَابَبَنَّ"/>
+              <term dediacritic="نحاببن" pronoun="نحن" value="نُحَابَبَنَّ"/>
+              <term dediacritic="تحاببن" pronoun="أنتَ" value="تُحَابَبَنَّ"/>
+              <term dediacritic="تحاببن" pronoun="أنتِ" value="تُحَابَبِنَّ"/>
+              <term dediacritic="تحاببان" pronoun="أنتما" value="تُحَابَبَانِّ"/>
+              <term dediacritic="تحاببن" pronoun="أنتم" value="تُحَابَبُنَّ"/>
+              <term dediacritic="تحاببنان" pronoun="أنتنُّ" value="تُحَابَبْنَانِّ"/>
+              <term dediacritic="يحاببن" pronoun="هو" value="يُحَابَبَنَّ"/>
+              <term dediacritic="تحاببن" pronoun="هي" value="تُحَابَبَنَّ"/>
+              <term dediacritic="يحاببان" pronoun="هما" value="يُحَابَبَانِّ"/>
+              <term dediacritic="تحاببان" pronoun="هما2" value="تُحَابَبَانِّ"/>
+              <term dediacritic="يحاببن" pronoun="هم" value="يُحَابَبُنَّ"/>
+              <term dediacritic="يحاببنان" pronoun="هنُّ" value="يُحَابَبْنَانِّ"/>
+            </emphasize>
+          </passiveVerb>
+        </verbConjugation>
+        <nounDerviation>
+          <subject>
+            <indefinite>
+              <term case="nominative" dediacritic="محابب" number="single" sex="male" value="مُحَابِبٌ"/>
+              <term case="nominative" dediacritic="محاببة" number="single" sex="female" value="مُحَابِبَةٌ"/>
+              <term case="nominative" dediacritic="محاببان" number="dual" sex="male" value="مُحَابِبَانِ"/>
+              <term case="nominative" dediacritic="محاببتان" number="dual" sex="female" value="مُحَابِبَتَانِ"/>
+              <term case="nominative" dediacritic="محاببون" number="plural" sex="male" value="مُحَابِبُونَ"/>
+              <term case="nominative" dediacritic="محاببات" number="plural" sex="female" value="مُحَابِبَاتٌ"/>
+              <term case="accussative" dediacritic="محاببا" number="single" sex="male" value="مُحَابِبًا"/>
+              <term case="accussative" dediacritic="محاببة" number="single" sex="female" value="مُحَابِبَةً"/>
+              <term case="accussative" dediacritic="محاببين" number="dual" sex="male" value="مُحَابِبَيْنِ"/>
+              <term case="accussative" dediacritic="محاببتين" number="dual" sex="female" value="مُحَابِبَتَيْنِ"/>
+              <term case="accussative" dediacritic="محاببين" number="plural" sex="male" value="مُحَابِبِينَ"/>
+              <term case="accussative" dediacritic="محاببات" number="plural" sex="female" value="مُحَابِبَاتٍ"/>
+              <term case="jussitive" dediacritic="محابب" number="single" sex="male" value="مُحَابِبٍ"/>
+              <term case="jussitive" dediacritic="محاببة" number="single" sex="female" value="مُحَابِبَةٍ"/>
+              <term case="jussitive" dediacritic="محاببين" number="dual" sex="male" value="مُحَابِبَيْنِ"/>
+              <term case="jussitive" dediacritic="محاببتين" number="dual" sex="female" value="مُحَابِبَتَيْنِ"/>
+              <term case="jussitive" dediacritic="محاببين" number="plural" sex="male" value="مُحَابِبِينَ"/>
+              <term case="jussitive" dediacritic="محاببات" number="plural" sex="female" value="مُحَابِبَاتٍ"/>
+            </indefinite>
+          </subject>
+          <object>
+            <indefinite>
+              <term case="nominative" dediacritic="محابب" number="single" sex="male" value="مُحَابَبٌ"/>
+              <term case="nominative" dediacritic="محاببة" number="single" sex="female" value="مُحَابَبَةٌ"/>
+              <term case="nominative" dediacritic="محاببان" number="dual" sex="male" value="مُحَابَبَانِ"/>
+              <term case="nominative" dediacritic="محاببتان" number="dual" sex="female" value="مُحَابَبَتَانِ"/>
+              <term case="nominative" dediacritic="محاببون" number="plural" sex="male" value="مُحَابَبُونَ"/>
+              <term case="nominative" dediacritic="محاببات" number="plural" sex="female" value="مُحَابَبَاتٌ"/>
+              <term case="accussative" dediacritic="محاببا" number="single" sex="male" value="مُحَابَبًا"/>
+              <term case="accussative" dediacritic="محاببة" number="single" sex="female" value="مُحَابَبَةً"/>
+              <term case="accussative" dediacritic="محاببين" number="dual" sex="male" value="مُحَابَبَيْنِ"/>
+              <term case="accussative" dediacritic="محاببتين" number="dual" sex="female" value="مُحَابَبَتَيْنِ"/>
+              <term case="accussative" dediacritic="محاببين" number="plural" sex="male" value="مُحَابَبِينَ"/>
+              <term case="accussative" dediacritic="محاببات" number="plural" sex="female" value="مُحَابَبَاتٍ"/>
+              <term case="jussitive" dediacritic="محابب" number="single" sex="male" value="مُحَابَبٍ"/>
+              <term case="jussitive" dediacritic="محاببة" number="single" sex="female" value="مُحَابَبَةٍ"/>
+              <term case="jussitive" dediacritic="محاببين" number="dual" sex="male" value="مُحَابَبَيْنِ"/>
+              <term case="jussitive" dediacritic="محاببتين" number="dual" sex="female" value="مُحَابَبَتَيْنِ"/>
+              <term case="jussitive" dediacritic="محاببين" number="plural" sex="male" value="مُحَابَبِينَ"/>
+              <term case="jussitive" dediacritic="محاببات" number="plural" sex="female" value="مُحَابَبَاتٍ"/>
+            </indefinite>
+          </object>
+          <timePlace>
+            <indefinite>
+              <term case="nominative" dediacritic="محابب" number="single" sex="male" value="مُحَابَبٌ"/>
+              <term case="nominative" dediacritic="محاببان" number="dual" sex="male" value="مُحَابَبَانِ"/>
+              <term case="accussative" dediacritic="محاببا" number="single" sex="male" value="مُحَابَبًا"/>
+              <term case="accussative" dediacritic="محاببين" number="dual" sex="male" value="مُحَابَبَيْنِ"/>
+              <term case="jussitive" dediacritic="محابب" number="single" sex="male" value="مُحَابَبٍ"/>
+              <term case="jussitive" dediacritic="محاببين" number="dual" sex="male" value="مُحَابَبَيْنِ"/>
+            </indefinite>
+          </timePlace>
+        </nounDerviation>
+        <gerund>
+          <meem>
+            <indefinite>
+              <term case="nominative" dediacritic="محابب" number="single" sex="male" value="مُحَابَبٌ"/>
+              <term case="accussative" dediacritic="محاببا" number="single" sex="male" value="مُحَابَبًا"/>
+              <term case="jussitive" dediacritic="محابب" number="single" sex="male" value="مُحَابَبٍ"/>
+            </indefinite>
+          </meem>
+        </gerund>
+      </conjuagtion>
+      <conjuagtion id="7">
+        <past>
+          <term value="تَحَابَبَ"/>
+        </past>
+        <present>
+          <term value="يَتَحَابَبُ"/>
+        </present>
+        <verbConjugation>
+          <activeVerb>
+            <past>
+              <term dediacritic="تحاببت" pronoun="أنا" value="تَحَابَبْتُ"/>
+              <term dediacritic="تحاببنا" pronoun="نحن" value="تَحَابَبْنَا"/>
+              <term dediacritic="تحاببت" pronoun="أنتَ" value="تَحَابَبْتَ"/>
+              <term dediacritic="تحاببت" pronoun="أنتِ" value="تَحَابَبْتِ"/>
+              <term dediacritic="تحاببتما" pronoun="أنتما" value="تَحَابَبْتُمَا"/>
+              <term dediacritic="تحاببتم" pronoun="أنتم" value="تَحَابَبْتُمْ"/>
+              <term dediacritic="تحاببتن" pronoun="أنتنُّ" value="تَحَابَبْتُنَّ"/>
+              <term dediacritic="تحابب" pronoun="هو" value="تَحَابَبَ"/>
+              <term dediacritic="تحاببت" pronoun="هي" value="تَحَابَبَتْ"/>
+              <term dediacritic="تحاببا" pronoun="هما" value="تَحَابَبَا"/>
+              <term dediacritic="تحاببتا" pronoun="هما2" value="تَحَابَبَتَا"/>
+              <term dediacritic="تحاببوا" pronoun="هم" value="تَحَابَبُوا"/>
+              <term dediacritic="تحاببن" pronoun="هنُّ" value="تَحَابَبْنَ"/>
+            </past>
+            <nominativePresent>
+              <term dediacritic="أتحابب" pronoun="أنا" value="أَتَحَابَبُ"/>
+              <term dediacritic="نتحابب" pronoun="نحن" value="نَتَحَابَبُ"/>
+              <term dediacritic="تتحابب" pronoun="أنتَ" value="تَتَحَابَبُ"/>
+              <term dediacritic="تتحاببين" pronoun="أنتِ" value="تَتَحَابَبِينَ"/>
+              <term dediacritic="تتحاببان" pronoun="أنتما" value="تَتَحَابَبَانِ"/>
+              <term dediacritic="تتحاببون" pronoun="أنتم" value="تَتَحَابَبُونَ"/>
+              <term dediacritic="تتحاببن" pronoun="أنتنُّ" value="تَتَحَابَبْنَ"/>
+              <term dediacritic="يتحابب" pronoun="هو" value="يَتَحَابَبُ"/>
+              <term dediacritic="تتحابب" pronoun="هي" value="تَتَحَابَبُ"/>
+              <term dediacritic="يتحاببان" pronoun="هما" value="يَتَحَابَبَانِ"/>
+              <term dediacritic="تتحاببان" pronoun="هما2" value="تَتَحَابَبَانِ"/>
+              <term dediacritic="يتحاببون" pronoun="هم" value="يَتَحَابَبُونَ"/>
+              <term dediacritic="يتحاببن" pronoun="هنُّ" value="يَتَحَابَبْنَ"/>
+            </nominativePresent>
+            <accusativePresent>
+              <term dediacritic="أتحابب" pronoun="أنا" value="أَتَحَابَبَ"/>
+              <term dediacritic="نتحابب" pronoun="نحن" value="نَتَحَابَبَ"/>
+              <term dediacritic="تتحابب" pronoun="أنتَ" value="تَتَحَابَبَ"/>
+              <term dediacritic="تتحاببي" pronoun="أنتِ" value="تَتَحَابَبِي"/>
+              <term dediacritic="تتحاببا" pronoun="أنتما" value="تَتَحَابَبَا"/>
+              <term dediacritic="تتحاببوا" pronoun="أنتم" value="تَتَحَابَبُوا"/>
+              <term dediacritic="تتحاببن" pronoun="أنتنُّ" value="تَتَحَابَبْنَ"/>
+              <term dediacritic="يتحابب" pronoun="هو" value="يَتَحَابَبَ"/>
+              <term dediacritic="تتحابب" pronoun="هي" value="تَتَحَابَبَ"/>
+              <term dediacritic="يتحاببا" pronoun="هما" value="يَتَحَابَبَا"/>
+              <term dediacritic="تتحاببا" pronoun="هما2" value="تَتَحَابَبَا"/>
+              <term dediacritic="يتحاببوا" pronoun="هم" value="يَتَحَابَبُوا"/>
+              <term dediacritic="يتحاببن" pronoun="هنُّ" value="يَتَحَابَبْنَ"/>
+            </accusativePresent>
+            <jussitivePresent>
+              <term dediacritic="أتحابب" pronoun="أنا" value="أَتَحَابَبْ"/>
+              <term dediacritic="نتحابب" pronoun="نحن" value="نَتَحَابَبْ"/>
+              <term dediacritic="تتحابب" pronoun="أنتَ" value="تَتَحَابَبْ"/>
+              <term dediacritic="تتحاببي" pronoun="أنتِ" value="تَتَحَابَبِي"/>
+              <term dediacritic="تتحاببا" pronoun="أنتما" value="تَتَحَابَبَا"/>
+              <term dediacritic="تتحاببوا" pronoun="أنتم" value="تَتَحَابَبُوا"/>
+              <term dediacritic="تتحاببن" pronoun="أنتنُّ" value="تَتَحَابَبْنَ"/>
+              <term dediacritic="يتحابب" pronoun="هو" value="يَتَحَابَبْ"/>
+              <term dediacritic="تتحابب" pronoun="هي" value="تَتَحَابَبْ"/>
+              <term dediacritic="يتحاببا" pronoun="هما" value="يَتَحَابَبَا"/>
+              <term dediacritic="تتحاببا" pronoun="هما2" value="تَتَحَابَبَا"/>
+              <term dediacritic="يتحاببوا" pronoun="هم" value="يَتَحَابَبُوا"/>
+              <term dediacritic="يتحاببن" pronoun="هنُّ" value="يَتَحَابَبْنَ"/>
+            </jussitivePresent>
+            <emphasize>
+              <term dediacritic="أتحاببن" pronoun="أنا" value="أَتَحَابَبَنَّ"/>
+              <term dediacritic="نتحاببن" pronoun="نحن" value="نَتَحَابَبَنَّ"/>
+              <term dediacritic="تتحاببن" pronoun="أنتَ" value="تَتَحَابَبَنَّ"/>
+              <term dediacritic="تتحاببن" pronoun="أنتِ" value="تَتَحَابَبِنَّ"/>
+              <term dediacritic="تتحاببان" pronoun="أنتما" value="تَتَحَابَبَانِّ"/>
+              <term dediacritic="تتحاببن" pronoun="أنتم" value="تَتَحَابَبُنَّ"/>
+              <term dediacritic="تتحاببنان" pronoun="أنتنُّ" value="تَتَحَابَبْنَانِّ"/>
+              <term dediacritic="يتحاببن" pronoun="هو" value="يَتَحَابَبَنَّ"/>
+              <term dediacritic="تتحاببن" pronoun="هي" value="تَتَحَابَبَنَّ"/>
+              <term dediacritic="يتحاببان" pronoun="هما" value="يَتَحَابَبَانِّ"/>
+              <term dediacritic="تتحاببان" pronoun="هما2" value="تَتَحَابَبَانِّ"/>
+              <term dediacritic="يتحاببن" pronoun="هم" value="يَتَحَابَبُنَّ"/>
+              <term dediacritic="يتحاببنان" pronoun="هنُّ" value="يَتَحَابَبْنَانِّ"/>
+            </emphasize>
+            <imperative>
+              <term dediacritic="تحاببن" pronoun="أنتَ" value="تَحَابَبَنَّ"/>
+              <term dediacritic="تحاببن" pronoun="أنتِ" value="تَحَابَبِنَّ"/>
+              <term dediacritic="تحاببان" pronoun="أنتما" value="تَحَابَبَانِّ"/>
+              <term dediacritic="تحاببن" pronoun="أنتم" value="تَحَابَبُنَّ"/>
+              <term dediacritic="تحاببنان" pronoun="أنتنُّ" value="تَحَابَبْنَانِّ"/>
+            </imperative>
+            <emphEmperative>
+              <term dediacritic="تحاببن" pronoun="أنتَ" value="تَحَابَبَنَّ"/>
+              <term dediacritic="تحاببن" pronoun="أنتِ" value="تَحَابَبِنَّ"/>
+              <term dediacritic="تحاببان" pronoun="أنتما" value="تَحَابَبَانِّ"/>
+              <term dediacritic="تحاببن" pronoun="أنتم" value="تَحَابَبُنَّ"/>
+              <term dediacritic="تحاببنان" pronoun="أنتنُّ" value="تَحَابَبْنَانِّ"/>
+            </emphEmperative>
+          </activeVerb>
+          <passiveVerb>
+            <past>
+              <term dediacritic="تحوبب" pronoun="هو" value="تُحُوبِبَ"/>
+              <term dediacritic="تحوببت" pronoun="هي" value="تُحُوبِبَتْ"/>
+            </past>
+            <nominativePresent>
+              <term dediacritic="يتحابب" pronoun="هو" value="يُتَحَابَبُ"/>
+              <term dediacritic="تتحابب" pronoun="هي" value="تُتَحَابَبُ"/>
+            </nominativePresent>
+            <accusativePresent>
+              <term dediacritic="يتحابب" pronoun="هو" value="يُتَحَابَبَ"/>
+              <term dediacritic="تتحابب" pronoun="هي" value="تُتَحَابَبَ"/>
+            </accusativePresent>
+            <jussitivePresent>
+              <term dediacritic="يتحابب" pronoun="هو" value="يُتَحَابَبْ"/>
+              <term dediacritic="تتحابب" pronoun="هي" value="تُتَحَابَبْ"/>
+            </jussitivePresent>
+            <emphasize>
+              <term dediacritic="يتحاببن" pronoun="هو" value="يُتَحَابَبَنَّ"/>
+              <term dediacritic="تتحاببن" pronoun="هي" value="تُتَحَابَبَنَّ"/>
+            </emphasize>
+          </passiveVerb>
+        </verbConjugation>
+        <nounDerviation>
+          <subject>
+            <indefinite>
+              <term case="nominative" dediacritic="متحابب" number="single" sex="male" value="مُتَحَابِبٌ"/>
+              <term case="nominative" dediacritic="متحاببة" number="single" sex="female" value="مُتَحَابِبَةٌ"/>
+              <term case="nominative" dediacritic="متحاببان" number="dual" sex="male" value="مُتَحَابِبَانِ"/>
+              <term case="nominative" dediacritic="متحاببتان" number="dual" sex="female" value="مُتَحَابِبَتَانِ"/>
+              <term case="nominative" dediacritic="متحاببون" number="plural" sex="male" value="مُتَحَابِبُونَ"/>
+              <term case="nominative" dediacritic="متحاببات" number="plural" sex="female" value="مُتَحَابِبَاتٌ"/>
+              <term case="accussative" dediacritic="متحاببا" number="single" sex="male" value="مُتَحَابِبًا"/>
+              <term case="accussative" dediacritic="متحاببة" number="single" sex="female" value="مُتَحَابِبَةً"/>
+              <term case="accussative" dediacritic="متحاببين" number="dual" sex="male" value="مُتَحَابِبَيْنِ"/>
+              <term case="accussative" dediacritic="متحاببتين" number="dual" sex="female" value="مُتَحَابِبَتَيْنِ"/>
+              <term case="accussative" dediacritic="متحاببين" number="plural" sex="male" value="مُتَحَابِبِينَ"/>
+              <term case="accussative" dediacritic="متحاببات" number="plural" sex="female" value="مُتَحَابِبَاتٍ"/>
+              <term case="jussitive" dediacritic="متحابب" number="single" sex="male" value="مُتَحَابِبٍ"/>
+              <term case="jussitive" dediacritic="متحاببة" number="single" sex="female" value="مُتَحَابِبَةٍ"/>
+              <term case="jussitive" dediacritic="متحاببين" number="dual" sex="male" value="مُتَحَابِبَيْنِ"/>
+              <term case="jussitive" dediacritic="متحاببتين" number="dual" sex="female" value="مُتَحَابِبَتَيْنِ"/>
+              <term case="jussitive" dediacritic="متحاببين" number="plural" sex="male" value="مُتَحَابِبِينَ"/>
+              <term case="jussitive" dediacritic="متحاببات" number="plural" sex="female" value="مُتَحَابِبَاتٍ"/>
+            </indefinite>
+          </subject>
+          <object>
+            <indefinite>
+              <term case="nominative" dediacritic="متحابب" number="single" sex="male" value="مُتَحَابَبٌ"/>
+              <term case="nominative" dediacritic="متحاببة" number="single" sex="female" value="مُتَحَابَبَةٌ"/>
+              <term case="nominative" dediacritic="متحاببان" number="dual" sex="male" value="مُتَحَابَبَانِ"/>
+              <term case="nominative" dediacritic="متحاببتان" number="dual" sex="female" value="مُتَحَابَبَتَانِ"/>
+              <term case="nominative" dediacritic="متحاببون" number="plural" sex="male" value="مُتَحَابَبُونَ"/>
+              <term case="nominative" dediacritic="متحاببات" number="plural" sex="female" value="مُتَحَابَبَاتٌ"/>
+              <term case="accussative" dediacritic="متحاببا" number="single" sex="male" value="مُتَحَابَبًا"/>
+              <term case="accussative" dediacritic="متحاببة" number="single" sex="female" value="مُتَحَابَبَةً"/>
+              <term case="accussative" dediacritic="متحاببين" number="dual" sex="male" value="مُتَحَابَبَيْنِ"/>
+              <term case="accussative" dediacritic="متحاببتين" number="dual" sex="female" value="مُتَحَابَبَتَيْنِ"/>
+              <term case="accussative" dediacritic="متحاببين" number="plural" sex="male" value="مُتَحَابَبِينَ"/>
+              <term case="accussative" dediacritic="متحاببات" number="plural" sex="female" value="مُتَحَابَبَاتٍ"/>
+              <term case="jussitive" dediacritic="متحابب" number="single" sex="male" value="مُتَحَابَبٍ"/>
+              <term case="jussitive" dediacritic="متحاببة" number="single" sex="female" value="مُتَحَابَبَةٍ"/>
+              <term case="jussitive" dediacritic="متحاببين" number="dual" sex="male" value="مُتَحَابَبَيْنِ"/>
+              <term case="jussitive" dediacritic="متحاببتين" number="dual" sex="female" value="مُتَحَابَبَتَيْنِ"/>
+              <term case="jussitive" dediacritic="متحاببين" number="plural" sex="male" value="مُتَحَابَبِينَ"/>
+              <term case="jussitive" dediacritic="متحاببات" number="plural" sex="female" value="مُتَحَابَبَاتٍ"/>
+            </indefinite>
+          </object>
+          <timePlace>
+            <indefinite>
+              <term case="nominative" dediacritic="متحابب" number="single" sex="male" value="مُتَحَابَبٌ"/>
+              <term case="nominative" dediacritic="متحاببان" number="dual" sex="male" value="مُتَحَابَبَانِ"/>
+              <term case="accussative" dediacritic="متحاببا" number="single" sex="male" value="مُتَحَابَبًا"/>
+              <term case="accussative" dediacritic="متحاببين" number="dual" sex="male" value="مُتَحَابَبَيْنِ"/>
+              <term case="jussitive" dediacritic="متحابب" number="single" sex="male" value="مُتَحَابَبٍ"/>
+              <term case="jussitive" dediacritic="متحاببين" number="dual" sex="male" value="مُتَحَابَبَيْنِ"/>
+            </indefinite>
+          </timePlace>
+        </nounDerviation>
+        <gerund>
+          <meem>
+            <indefinite>
+              <term case="nominative" dediacritic="متحابب" number="single" sex="male" value="مُتَحَابَبٌ"/>
+              <term case="accussative" dediacritic="متحاببا" number="single" sex="male" value="مُتَحَابَبًا"/>
+              <term case="jussitive" dediacritic="متحابب" number="single" sex="male" value="مُتَحَابَبٍ"/>
+            </indefinite>
+          </meem>
+        </gerund>
+      </conjuagtion>
+      <conjuagtion id="8">
+        <past>
+          <term value="تَحَبَّبَ"/>
+        </past>
+        <present>
+          <term value="يَتَحَبَّبُ"/>
+        </present>
+        <verbConjugation>
+          <activeVerb>
+            <past>
+              <term dediacritic="تحببت" pronoun="أنا" value="تَحَبَّبْتُ"/>
+              <term dediacritic="تحببنا" pronoun="نحن" value="تَحَبَّبْنَا"/>
+              <term dediacritic="تحببت" pronoun="أنتَ" value="تَحَبَّبْتَ"/>
+              <term dediacritic="تحببت" pronoun="أنتِ" value="تَحَبَّبْتِ"/>
+              <term dediacritic="تحببتما" pronoun="أنتما" value="تَحَبَّبْتُمَا"/>
+              <term dediacritic="تحببتم" pronoun="أنتم" value="تَحَبَّبْتُمْ"/>
+              <term dediacritic="تحببتن" pronoun="أنتنُّ" value="تَحَبَّبْتُنَّ"/>
+              <term dediacritic="تحبب" pronoun="هو" value="تَحَبَّبَ"/>
+              <term dediacritic="تحببت" pronoun="هي" value="تَحَبَّبَتْ"/>
+              <term dediacritic="تحببا" pronoun="هما" value="تَحَبَّبَا"/>
+              <term dediacritic="تحببتا" pronoun="هما2" value="تَحَبَّبَتَا"/>
+              <term dediacritic="تحببوا" pronoun="هم" value="تَحَبَّبُوا"/>
+              <term dediacritic="تحببن" pronoun="هنُّ" value="تَحَبَّبْنَ"/>
+            </past>
+            <nominativePresent>
+              <term dediacritic="أتحبب" pronoun="أنا" value="أَتَحَبَّبُ"/>
+              <term dediacritic="نتحبب" pronoun="نحن" value="نَتَحَبَّبُ"/>
+              <term dediacritic="تتحبب" pronoun="أنتَ" value="تَتَحَبَّبُ"/>
+              <term dediacritic="تتحببين" pronoun="أنتِ" value="تَتَحَبَّبِينَ"/>
+              <term dediacritic="تتحببان" pronoun="أنتما" value="تَتَحَبَّبَانِ"/>
+              <term dediacritic="تتحببون" pronoun="أنتم" value="تَتَحَبَّبُونَ"/>
+              <term dediacritic="تتحببن" pronoun="أنتنُّ" value="تَتَحَبَّبْنَ"/>
+              <term dediacritic="يتحبب" pronoun="هو" value="يَتَحَبَّبُ"/>
+              <term dediacritic="تتحبب" pronoun="هي" value="تَتَحَبَّبُ"/>
+              <term dediacritic="يتحببان" pronoun="هما" value="يَتَحَبَّبَانِ"/>
+              <term dediacritic="تتحببان" pronoun="هما2" value="تَتَحَبَّبَانِ"/>
+              <term dediacritic="يتحببون" pronoun="هم" value="يَتَحَبَّبُونَ"/>
+              <term dediacritic="يتحببن" pronoun="هنُّ" value="يَتَحَبَّبْنَ"/>
+            </nominativePresent>
+            <accusativePresent>
+              <term dediacritic="أتحبب" pronoun="أنا" value="أَتَحَبَّبَ"/>
+              <term dediacritic="نتحبب" pronoun="نحن" value="نَتَحَبَّبَ"/>
+              <term dediacritic="تتحبب" pronoun="أنتَ" value="تَتَحَبَّبَ"/>
+              <term dediacritic="تتحببي" pronoun="أنتِ" value="تَتَحَبَّبِي"/>
+              <term dediacritic="تتحببا" pronoun="أنتما" value="تَتَحَبَّبَا"/>
+              <term dediacritic="تتحببوا" pronoun="أنتم" value="تَتَحَبَّبُوا"/>
+              <term dediacritic="تتحببن" pronoun="أنتنُّ" value="تَتَحَبَّبْنَ"/>
+              <term dediacritic="يتحبب" pronoun="هو" value="يَتَحَبَّبَ"/>
+              <term dediacritic="تتحبب" pronoun="هي" value="تَتَحَبَّبَ"/>
+              <term dediacritic="يتحببا" pronoun="هما" value="يَتَحَبَّبَا"/>
+              <term dediacritic="تتحببا" pronoun="هما2" value="تَتَحَبَّبَا"/>
+              <term dediacritic="يتحببوا" pronoun="هم" value="يَتَحَبَّبُوا"/>
+              <term dediacritic="يتحببن" pronoun="هنُّ" value="يَتَحَبَّبْنَ"/>
+            </accusativePresent>
+            <jussitivePresent>
+              <term dediacritic="أتحبب" pronoun="أنا" value="أَتَحَبَّبْ"/>
+              <term dediacritic="نتحبب" pronoun="نحن" value="نَتَحَبَّبْ"/>
+              <term dediacritic="تتحبب" pronoun="أنتَ" value="تَتَحَبَّبْ"/>
+              <term dediacritic="تتحببي" pronoun="أنتِ" value="تَتَحَبَّبِي"/>
+              <term dediacritic="تتحببا" pronoun="أنتما" value="تَتَحَبَّبَا"/>
+              <term dediacritic="تتحببوا" pronoun="أنتم" value="تَتَحَبَّبُوا"/>
+              <term dediacritic="تتحببن" pronoun="أنتنُّ" value="تَتَحَبَّبْنَ"/>
+              <term dediacritic="يتحبب" pronoun="هو" value="يَتَحَبَّبْ"/>
+              <term dediacritic="تتحبب" pronoun="هي" value="تَتَحَبَّبْ"/>
+              <term dediacritic="يتحببا" pronoun="هما" value="يَتَحَبَّبَا"/>
+              <term dediacritic="تتحببا" pronoun="هما2" value="تَتَحَبَّبَا"/>
+              <term dediacritic="يتحببوا" pronoun="هم" value="يَتَحَبَّبُوا"/>
+              <term dediacritic="يتحببن" pronoun="هنُّ" value="يَتَحَبَّبْنَ"/>
+            </jussitivePresent>
+            <emphasize>
+              <term dediacritic="أتحببن" pronoun="أنا" value="أَتَحَبَّبَنَّ"/>
+              <term dediacritic="نتحببن" pronoun="نحن" value="نَتَحَبَّبَنَّ"/>
+              <term dediacritic="تتحببن" pronoun="أنتَ" value="تَتَحَبَّبَنَّ"/>
+              <term dediacritic="تتحببن" pronoun="أنتِ" value="تَتَحَبَّبِنَّ"/>
+              <term dediacritic="تتحببان" pronoun="أنتما" value="تَتَحَبَّبَانِّ"/>
+              <term dediacritic="تتحببن" pronoun="أنتم" value="تَتَحَبَّبُنَّ"/>
+              <term dediacritic="تتحببنان" pronoun="أنتنُّ" value="تَتَحَبَّبْنَانِّ"/>
+              <term dediacritic="يتحببن" pronoun="هو" value="يَتَحَبَّبَنَّ"/>
+              <term dediacritic="تتحببن" pronoun="هي" value="تَتَحَبَّبَنَّ"/>
+              <term dediacritic="يتحببان" pronoun="هما" value="يَتَحَبَّبَانِّ"/>
+              <term dediacritic="تتحببان" pronoun="هما2" value="تَتَحَبَّبَانِّ"/>
+              <term dediacritic="يتحببن" pronoun="هم" value="يَتَحَبَّبُنَّ"/>
+              <term dediacritic="يتحببنان" pronoun="هنُّ" value="يَتَحَبَّبْنَانِّ"/>
+            </emphasize>
+            <imperative>
+              <term dediacritic="تحببن" pronoun="أنتَ" value="تَحَبَّبَنَّ"/>
+              <term dediacritic="تحببن" pronoun="أنتِ" value="تَحَبَّبِنَّ"/>
+              <term dediacritic="تحببان" pronoun="أنتما" value="تَحَبَّبَانِّ"/>
+              <term dediacritic="تحببن" pronoun="أنتم" value="تَحَبَّبُنَّ"/>
+              <term dediacritic="تحببنان" pronoun="أنتنُّ" value="تَحَبَّبْنَانِّ"/>
+            </imperative>
+            <emphEmperative>
+              <term dediacritic="تحببن" pronoun="أنتَ" value="تَحَبَّبَنَّ"/>
+              <term dediacritic="تحببن" pronoun="أنتِ" value="تَحَبَّبِنَّ"/>
+              <term dediacritic="تحببان" pronoun="أنتما" value="تَحَبَّبَانِّ"/>
+              <term dediacritic="تحببن" pronoun="أنتم" value="تَحَبَّبُنَّ"/>
+              <term dediacritic="تحببنان" pronoun="أنتنُّ" value="تَحَبَّبْنَانِّ"/>
+            </emphEmperative>
+          </activeVerb>
+          <passiveVerb>
+            <past>
+              <term dediacritic="تحبب" pronoun="هو" value="تُحُبِّبَ"/>
+              <term dediacritic="تحببت" pronoun="هي" value="تُحُبِّبَتْ"/>
+            </past>
+            <nominativePresent>
+              <term dediacritic="يتحبب" pronoun="هو" value="يُتَحَبَّبُ"/>
+              <term dediacritic="تتحبب" pronoun="هي" value="تُتَحَبَّبُ"/>
+            </nominativePresent>
+            <accusativePresent>
+              <term dediacritic="يتحبب" pronoun="هو" value="يُتَحَبَّبَ"/>
+              <term dediacritic="تتحبب" pronoun="هي" value="تُتَحَبَّبَ"/>
+            </accusativePresent>
+            <jussitivePresent>
+              <term dediacritic="يتحبب" pronoun="هو" value="يُتَحَبَّبْ"/>
+              <term dediacritic="تتحبب" pronoun="هي" value="تُتَحَبَّبْ"/>
+            </jussitivePresent>
+            <emphasize>
+              <term dediacritic="يتحببن" pronoun="هو" value="يُتَحَبَّبَنَّ"/>
+              <term dediacritic="تتحببن" pronoun="هي" value="تُتَحَبَّبَنَّ"/>
+            </emphasize>
+          </passiveVerb>
+        </verbConjugation>
+        <nounDerviation>
+          <subject>
+            <indefinite>
+              <term case="nominative" dediacritic="متحبب" number="single" sex="male" value="مُتَحَبِّبٌ"/>
+              <term case="nominative" dediacritic="متحببة" number="single" sex="female" value="مُتَحَبِّبَةٌ"/>
+              <term case="nominative" dediacritic="متحببان" number="dual" sex="male" value="مُتَحَبِّبَانِ"/>
+              <term case="nominative" dediacritic="متحببتان" number="dual" sex="female" value="مُتَحَبِّبَتَانِ"/>
+              <term case="nominative" dediacritic="متحببون" number="plural" sex="male" value="مُتَحَبِّبُونَ"/>
+              <term case="nominative" dediacritic="متحببات" number="plural" sex="female" value="مُتَحَبِّبَاتٌ"/>
+              <term case="accussative" dediacritic="متحببا" number="single" sex="male" value="مُتَحَبِّبًا"/>
+              <term case="accussative" dediacritic="متحببة" number="single" sex="female" value="مُتَحَبِّبَةً"/>
+              <term case="accussative" dediacritic="متحببين" number="dual" sex="male" value="مُتَحَبِّبَيْنِ"/>
+              <term case="accussative" dediacritic="متحببتين" number="dual" sex="female" value="مُتَحَبِّبَتَيْنِ"/>
+              <term case="accussative" dediacritic="متحببين" number="plural" sex="male" value="مُتَحَبِّبِينَ"/>
+              <term case="accussative" dediacritic="متحببات" number="plural" sex="female" value="مُتَحَبِّبَاتٍ"/>
+              <term case="jussitive" dediacritic="متحبب" number="single" sex="male" value="مُتَحَبِّبٍ"/>
+              <term case="jussitive" dediacritic="متحببة" number="single" sex="female" value="مُتَحَبِّبَةٍ"/>
+              <term case="jussitive" dediacritic="متحببين" number="dual" sex="male" value="مُتَحَبِّبَيْنِ"/>
+              <term case="jussitive" dediacritic="متحببتين" number="dual" sex="female" value="مُتَحَبِّبَتَيْنِ"/>
+              <term case="jussitive" dediacritic="متحببين" number="plural" sex="male" value="مُتَحَبِّبِينَ"/>
+              <term case="jussitive" dediacritic="متحببات" number="plural" sex="female" value="مُتَحَبِّبَاتٍ"/>
+            </indefinite>
+          </subject>
+          <object>
+            <indefinite>
+              <term case="nominative" dediacritic="متحبب" number="single" sex="male" value="مُتَحَبَّبٌ"/>
+              <term case="nominative" dediacritic="متحببة" number="single" sex="female" value="مُتَحَبَّبَةٌ"/>
+              <term case="nominative" dediacritic="متحببان" number="dual" sex="male" value="مُتَحَبَّبَانِ"/>
+              <term case="nominative" dediacritic="متحببتان" number="dual" sex="female" value="مُتَحَبَّبَتَانِ"/>
+              <term case="nominative" dediacritic="متحببون" number="plural" sex="male" value="مُتَحَبَّبُونَ"/>
+              <term case="nominative" dediacritic="متحببات" number="plural" sex="female" value="مُتَحَبَّبَاتٌ"/>
+              <term case="accussative" dediacritic="متحببا" number="single" sex="male" value="مُتَحَبَّبًا"/>
+              <term case="accussative" dediacritic="متحببة" number="single" sex="female" value="مُتَحَبَّبَةً"/>
+              <term case="accussative" dediacritic="متحببين" number="dual" sex="male" value="مُتَحَبَّبَيْنِ"/>
+              <term case="accussative" dediacritic="متحببتين" number="dual" sex="female" value="مُتَحَبَّبَتَيْنِ"/>
+              <term case="accussative" dediacritic="متحببين" number="plural" sex="male" value="مُتَحَبَّبِينَ"/>
+              <term case="accussative" dediacritic="متحببات" number="plural" sex="female" value="مُتَحَبَّبَاتٍ"/>
+              <term case="jussitive" dediacritic="متحبب" number="single" sex="male" value="مُتَحَبَّبٍ"/>
+              <term case="jussitive" dediacritic="متحببة" number="single" sex="female" value="مُتَحَبَّبَةٍ"/>
+              <term case="jussitive" dediacritic="متحببين" number="dual" sex="male" value="مُتَحَبَّبَيْنِ"/>
+              <term case="jussitive" dediacritic="متحببتين" number="dual" sex="female" value="مُتَحَبَّبَتَيْنِ"/>
+              <term case="jussitive" dediacritic="متحببين" number="plural" sex="male" value="مُتَحَبَّبِينَ"/>
+              <term case="jussitive" dediacritic="متحببات" number="plural" sex="female" value="مُتَحَبَّبَاتٍ"/>
+            </indefinite>
+          </object>
+          <timePlace>
+            <indefinite>
+              <term case="nominative" dediacritic="متحبب" number="single" sex="male" value="مُتَحَبَّبٌ"/>
+              <term case="nominative" dediacritic="متحببان" number="dual" sex="male" value="مُتَحَبَّبَانِ"/>
+              <term case="accussative" dediacritic="متحببا" number="single" sex="male" value="مُتَحَبَّبًا"/>
+              <term case="accussative" dediacritic="متحببين" number="dual" sex="male" value="مُتَحَبَّبَيْنِ"/>
+              <term case="jussitive" dediacritic="متحبب" number="single" sex="male" value="مُتَحَبَّبٍ"/>
+              <term case="jussitive" dediacritic="متحببين" number="dual" sex="male" value="مُتَحَبَّبَيْنِ"/>
+            </indefinite>
+          </timePlace>
+        </nounDerviation>
+        <gerund>
+          <meem>
+            <indefinite>
+              <term case="nominative" dediacritic="متحبب" number="single" sex="male" value="مُتَحَبَّبٌ"/>
+              <term case="accussative" dediacritic="متحببا" number="single" sex="male" value="مُتَحَبَّبًا"/>
+              <term case="jussitive" dediacritic="متحبب" number="single" sex="male" value="مُتَحَبَّبٍ"/>
+            </indefinite>
+          </meem>
+        </gerund>
+      </conjuagtion>
+      <conjuagtion id="9">
+        <past>
+          <term value="اسْتَحْبَبَ"/>
+        </past>
+        <present>
+          <term value="يَسْتَحْبِبُ"/>
+        </present>
+        <verbConjugation>
+          <activeVerb>
+            <past>
+              <term dediacritic="استحببت" pronoun="أنا" value="اسْتَحْبَبْتُ"/>
+              <term dediacritic="استحببنا" pronoun="نحن" value="اسْتَحْبَبْنَا"/>
+              <term dediacritic="استحببت" pronoun="أنتَ" value="اسْتَحْبَبْتَ"/>
+              <term dediacritic="استحببت" pronoun="أنتِ" value="اسْتَحْبَبْتِ"/>
+              <term dediacritic="استحببتما" pronoun="أنتما" value="اسْتَحْبَبْتُمَا"/>
+              <term dediacritic="استحببتم" pronoun="أنتم" value="اسْتَحْبَبْتُمْ"/>
+              <term dediacritic="استحببتن" pronoun="أنتنُّ" value="اسْتَحْبَبْتُنَّ"/>
+              <term dediacritic="استحبب" pronoun="هو" value="اسْتَحْبَبَ"/>
+              <term dediacritic="استحببت" pronoun="هي" value="اسْتَحْبَبَتْ"/>
+              <term dediacritic="استحببا" pronoun="هما" value="اسْتَحْبَبَا"/>
+              <term dediacritic="استحببتا" pronoun="هما2" value="اسْتَحْبَبَتَا"/>
+              <term dediacritic="استحببوا" pronoun="هم" value="اسْتَحْبَبُوا"/>
+              <term dediacritic="استحببن" pronoun="هنُّ" value="اسْتَحْبَبْنَ"/>
+            </past>
+            <nominativePresent>
+              <term dediacritic="أستحبب" pronoun="أنا" value="أَسْتَحْبِبُ"/>
+              <term dediacritic="نستحبب" pronoun="نحن" value="نَسْتَحْبِبُ"/>
+              <term dediacritic="تستحبب" pronoun="أنتَ" value="تَسْتَحْبِبُ"/>
+              <term dediacritic="تستحببين" pronoun="أنتِ" value="تَسْتَحْبِبِينَ"/>
+              <term dediacritic="تستحببان" pronoun="أنتما" value="تَسْتَحْبِبَانِ"/>
+              <term dediacritic="تستحببون" pronoun="أنتم" value="تَسْتَحْبِبُونَ"/>
+              <term dediacritic="تستحببن" pronoun="أنتنُّ" value="تَسْتَحْبِبْنَ"/>
+              <term dediacritic="يستحبب" pronoun="هو" value="يَسْتَحْبِبُ"/>
+              <term dediacritic="تستحبب" pronoun="هي" value="تَسْتَحْبِبُ"/>
+              <term dediacritic="يستحببان" pronoun="هما" value="يَسْتَحْبِبَانِ"/>
+              <term dediacritic="تستحببان" pronoun="هما2" value="تَسْتَحْبِبَانِ"/>
+              <term dediacritic="يستحببون" pronoun="هم" value="يَسْتَحْبِبُونَ"/>
+              <term dediacritic="يستحببن" pronoun="هنُّ" value="يَسْتَحْبِبْنَ"/>
+            </nominativePresent>
+            <accusativePresent>
+              <term dediacritic="أستحبب" pronoun="أنا" value="أَسْتَحْبِبَ"/>
+              <term dediacritic="نستحبب" pronoun="نحن" value="نَسْتَحْبِبَ"/>
+              <term dediacritic="تستحبب" pronoun="أنتَ" value="تَسْتَحْبِبَ"/>
+              <term dediacritic="تستحببي" pronoun="أنتِ" value="تَسْتَحْبِبِي"/>
+              <term dediacritic="تستحببا" pronoun="أنتما" value="تَسْتَحْبِبَا"/>
+              <term dediacritic="تستحببوا" pronoun="أنتم" value="تَسْتَحْبِبُوا"/>
+              <term dediacritic="تستحببن" pronoun="أنتنُّ" value="تَسْتَحْبِبْنَ"/>
+              <term dediacritic="يستحبب" pronoun="هو" value="يَسْتَحْبِبَ"/>
+              <term dediacritic="تستحبب" pronoun="هي" value="تَسْتَحْبِبَ"/>
+              <term dediacritic="يستحببا" pronoun="هما" value="يَسْتَحْبِبَا"/>
+              <term dediacritic="تستحببا" pronoun="هما2" value="تَسْتَحْبِبَا"/>
+              <term dediacritic="يستحببوا" pronoun="هم" value="يَسْتَحْبِبُوا"/>
+              <term dediacritic="يستحببن" pronoun="هنُّ" value="يَسْتَحْبِبْنَ"/>
+            </accusativePresent>
+            <jussitivePresent>
+              <term dediacritic="أستحبب" pronoun="أنا" value="أَسْتَحْبِبْ"/>
+              <term dediacritic="نستحبب" pronoun="نحن" value="نَسْتَحْبِبْ"/>
+              <term dediacritic="تستحبب" pronoun="أنتَ" value="تَسْتَحْبِبْ"/>
+              <term dediacritic="تستحببي" pronoun="أنتِ" value="تَسْتَحْبِبِي"/>
+              <term dediacritic="تستحببا" pronoun="أنتما" value="تَسْتَحْبِبَا"/>
+              <term dediacritic="تستحببوا" pronoun="أنتم" value="تَسْتَحْبِبُوا"/>
+              <term dediacritic="تستحببن" pronoun="أنتنُّ" value="تَسْتَحْبِبْنَ"/>
+              <term dediacritic="يستحبب" pronoun="هو" value="يَسْتَحْبِبْ"/>
+              <term dediacritic="تستحبب" pronoun="هي" value="تَسْتَحْبِبْ"/>
+              <term dediacritic="يستحببا" pronoun="هما" value="يَسْتَحْبِبَا"/>
+              <term dediacritic="تستحببا" pronoun="هما2" value="تَسْتَحْبِبَا"/>
+              <term dediacritic="يستحببوا" pronoun="هم" value="يَسْتَحْبِبُوا"/>
+              <term dediacritic="يستحببن" pronoun="هنُّ" value="يَسْتَحْبِبْنَ"/>
+            </jussitivePresent>
+            <emphasize>
+              <term dediacritic="أستحببن" pronoun="أنا" value="أَسْتَحْبِبَنَّ"/>
+              <term dediacritic="نستحببن" pronoun="نحن" value="نَسْتَحْبِبَنَّ"/>
+              <term dediacritic="تستحببن" pronoun="أنتَ" value="تَسْتَحْبِبَنَّ"/>
+              <term dediacritic="تستحببن" pronoun="أنتِ" value="تَسْتَحْبِبِنَّ"/>
+              <term dediacritic="تستحببان" pronoun="أنتما" value="تَسْتَحْبِبَانِّ"/>
+              <term dediacritic="تستحببن" pronoun="أنتم" value="تَسْتَحْبِبُنَّ"/>
+              <term dediacritic="تستحببنان" pronoun="أنتنُّ" value="تَسْتَحْبِبْنَانِّ"/>
+              <term dediacritic="يستحببن" pronoun="هو" value="يَسْتَحْبِبَنَّ"/>
+              <term dediacritic="تستحببن" pronoun="هي" value="تَسْتَحْبِبَنَّ"/>
+              <term dediacritic="يستحببان" pronoun="هما" value="يَسْتَحْبِبَانِّ"/>
+              <term dediacritic="تستحببان" pronoun="هما2" value="تَسْتَحْبِبَانِّ"/>
+              <term dediacritic="يستحببن" pronoun="هم" value="يَسْتَحْبِبُنَّ"/>
+              <term dediacritic="يستحببنان" pronoun="هنُّ" value="يَسْتَحْبِبْنَانِّ"/>
+            </emphasize>
+            <imperative>
+              <term dediacritic="استحببن" pronoun="أنتَ" value="اسْتَحْبِبَنَّ"/>
+              <term dediacritic="استحببن" pronoun="أنتِ" value="اسْتَحْبِبِنَّ"/>
+              <term dediacritic="استحببان" pronoun="أنتما" value="اسْتَحْبِبَانِّ"/>
+              <term dediacritic="استحببن" pronoun="أنتم" value="اسْتَحْبِبُنَّ"/>
+              <term dediacritic="استحببنان" pronoun="أنتنُّ" value="اسْتَحْبِبْنَانِّ"/>
+            </imperative>
+            <emphEmperative>
+              <term dediacritic="استحببن" pronoun="أنتَ" value="اسْتَحْبِبَنَّ"/>
+              <term dediacritic="استحببن" pronoun="أنتِ" value="اسْتَحْبِبِنَّ"/>
+              <term dediacritic="استحببان" pronoun="أنتما" value="اسْتَحْبِبَانِّ"/>
+              <term dediacritic="استحببن" pronoun="أنتم" value="اسْتَحْبِبُنَّ"/>
+              <term dediacritic="استحببنان" pronoun="أنتنُّ" value="اسْتَحْبِبْنَانِّ"/>
+            </emphEmperative>
+          </activeVerb>
+          <passiveVerb>
+            <past>
+              <term dediacritic="استحببت" pronoun="أنا" value="اسْتُحْبِبْتُ"/>
+              <term dediacritic="استحببنا" pronoun="نحن" value="اسْتُحْبِبْنَا"/>
+              <term dediacritic="استحببت" pronoun="أنتَ" value="اسْتُحْبِبْتَ"/>
+              <term dediacritic="استحببت" pronoun="أنتِ" value="اسْتُحْبِبْتِ"/>
+              <term dediacritic="استحببتما" pronoun="أنتما" value="اسْتُحْبِبْتُمَا"/>
+              <term dediacritic="استحببتم" pronoun="أنتم" value="اسْتُحْبِبْتُمْ"/>
+              <term dediacritic="استحببتن" pronoun="أنتنُّ" value="اسْتُحْبِبْتُنَّ"/>
+              <term dediacritic="استحبب" pronoun="هو" value="اسْتُحْبِبَ"/>
+              <term dediacritic="استحببت" pronoun="هي" value="اسْتُحْبِبَتْ"/>
+              <term dediacritic="استحببا" pronoun="هما" value="اسْتُحْبِبَا"/>
+              <term dediacritic="استحببتا" pronoun="هما2" value="اسْتُحْبِبَتَا"/>
+              <term dediacritic="استحببوا" pronoun="هم" value="اسْتُحْبِبُوا"/>
+              <term dediacritic="استحببن" pronoun="هنُّ" value="اسْتُحْبِبْنَ"/>
+            </past>
+            <nominativePresent>
+              <term dediacritic="أستحبب" pronoun="أنا" value="أُسْتَحْبَبُ"/>
+              <term dediacritic="نستحبب" pronoun="نحن" value="نُسْتَحْبَبُ"/>
+              <term dediacritic="تستحبب" pronoun="أنتَ" value="تُسْتَحْبَبُ"/>
+              <term dediacritic="تستحببين" pronoun="أنتِ" value="تُسْتَحْبَبِينَ"/>
+              <term dediacritic="تستحببان" pronoun="أنتما" value="تُسْتَحْبَبَانِ"/>
+              <term dediacritic="تستحببون" pronoun="أنتم" value="تُسْتَحْبَبُونَ"/>
+              <term dediacritic="تستحببن" pronoun="أنتنُّ" value="تُسْتَحْبَبْنَ"/>
+              <term dediacritic="يستحبب" pronoun="هو" value="يُسْتَحْبَبُ"/>
+              <term dediacritic="تستحبب" pronoun="هي" value="تُسْتَحْبَبُ"/>
+              <term dediacritic="يستحببان" pronoun="هما" value="يُسْتَحْبَبَانِ"/>
+              <term dediacritic="تستحببان" pronoun="هما2" value="تُسْتَحْبَبَانِ"/>
+              <term dediacritic="يستحببون" pronoun="هم" value="يُسْتَحْبَبُونَ"/>
+              <term dediacritic="يستحببن" pronoun="هنُّ" value="يُسْتَحْبَبْنَ"/>
+            </nominativePresent>
+            <accusativePresent>
+              <term dediacritic="أستحبب" pronoun="أنا" value="أُسْتَحْبَبَ"/>
+              <term dediacritic="نستحبب" pronoun="نحن" value="نُسْتَحْبَبَ"/>
+              <term dediacritic="تستحبب" pronoun="أنتَ" value="تُسْتَحْبَبَ"/>
+              <term dediacritic="تستحببي" pronoun="أنتِ" value="تُسْتَحْبَبِي"/>
+              <term dediacritic="تستحببا" pronoun="أنتما" value="تُسْتَحْبَبَا"/>
+              <term dediacritic="تستحببوا" pronoun="أنتم" value="تُسْتَحْبَبُوا"/>
+              <term dediacritic="تستحببن" pronoun="أنتنُّ" value="تُسْتَحْبَبْنَ"/>
+              <term dediacritic="يستحبب" pronoun="هو" value="يُسْتَحْبَبَ"/>
+              <term dediacritic="تستحبب" pronoun="هي" value="تُسْتَحْبَبَ"/>
+              <term dediacritic="يستحببا" pronoun="هما" value="يُسْتَحْبَبَا"/>
+              <term dediacritic="تستحببا" pronoun="هما2" value="تُسْتَحْبَبَا"/>
+              <term dediacritic="يستحببوا" pronoun="هم" value="يُسْتَحْبَبُوا"/>
+              <term dediacritic="يستحببن" pronoun="هنُّ" value="يُسْتَحْبَبْنَ"/>
+            </accusativePresent>
+            <jussitivePresent>
+              <term dediacritic="أستحبب" pronoun="أنا" value="أُسْتَحْبَبْ"/>
+              <term dediacritic="نستحبب" pronoun="نحن" value="نُسْتَحْبَبْ"/>
+              <term dediacritic="تستحبب" pronoun="أنتَ" value="تُسْتَحْبَبْ"/>
+              <term dediacritic="تستحببي" pronoun="أنتِ" value="تُسْتَحْبَبِي"/>
+              <term dediacritic="تستحببا" pronoun="أنتما" value="تُسْتَحْبَبَا"/>
+              <term dediacritic="تستحببوا" pronoun="أنتم" value="تُسْتَحْبَبُوا"/>
+              <term dediacritic="تستحببن" pronoun="أنتنُّ" value="تُسْتَحْبَبْنَ"/>
+              <term dediacritic="يستحبب" pronoun="هو" value="يُسْتَحْبَبْ"/>
+              <term dediacritic="تستحبب" pronoun="هي" value="تُسْتَحْبَبْ"/>
+              <term dediacritic="يستحببا" pronoun="هما" value="يُسْتَحْبَبَا"/>
+              <term dediacritic="تستحببا" pronoun="هما2" value="تُسْتَحْبَبَا"/>
+              <term dediacritic="يستحببوا" pronoun="هم" value="يُسْتَحْبَبُوا"/>
+              <term dediacritic="يستحببن" pronoun="هنُّ" value="يُسْتَحْبَبْنَ"/>
+            </jussitivePresent>
+            <emphasize>
+              <term dediacritic="أستحببن" pronoun="أنا" value="أُسْتَحْبَبَنَّ"/>
+              <term dediacritic="نستحببن" pronoun="نحن" value="نُسْتَحْبَبَنَّ"/>
+              <term dediacritic="تستحببن" pronoun="أنتَ" value="تُسْتَحْبَبَنَّ"/>
+              <term dediacritic="تستحببن" pronoun="أنتِ" value="تُسْتَحْبَبِنَّ"/>
+              <term dediacritic="تستحببان" pronoun="أنتما" value="تُسْتَحْبَبَانِّ"/>
+              <term dediacritic="تستحببن" pronoun="أنتم" value="تُسْتَحْبَبُنَّ"/>
+              <term dediacritic="تستحببنان" pronoun="أنتنُّ" value="تُسْتَحْبَبْنَانِّ"/>
+              <term dediacritic="يستحببن" pronoun="هو" value="يُسْتَحْبَبَنَّ"/>
+              <term dediacritic="تستحببن" pronoun="هي" value="تُسْتَحْبَبَنَّ"/>
+              <term dediacritic="يستحببان" pronoun="هما" value="يُسْتَحْبَبَانِّ"/>
+              <term dediacritic="تستحببان" pronoun="هما2" value="تُسْتَحْبَبَانِّ"/>
+              <term dediacritic="يستحببن" pronoun="هم" value="يُسْتَحْبَبُنَّ"/>
+              <term dediacritic="يستحببنان" pronoun="هنُّ" value="يُسْتَحْبَبْنَانِّ"/>
+            </emphasize>
+          </passiveVerb>
+        </verbConjugation>
+        <nounDerviation>
+          <subject>
+            <indefinite>
+              <term case="nominative" dediacritic="مستحبب" number="single" sex="male" value="مُسْتَحْبِبٌ"/>
+              <term case="nominative" dediacritic="مستحببة" number="single" sex="female" value="مُسْتَحْبِبَةٌ"/>
+              <term case="nominative" dediacritic="مستحببان" number="dual" sex="male" value="مُسْتَحْبِبَانِ"/>
+              <term case="nominative" dediacritic="مستحببتان" number="dual" sex="female" value="مُسْتَحْبِبَتَانِ"/>
+              <term case="nominative" dediacritic="مستحببون" number="plural" sex="male" value="مُسْتَحْبِبُونَ"/>
+              <term case="nominative" dediacritic="مستحببات" number="plural" sex="female" value="مُسْتَحْبِبَاتٌ"/>
+              <term case="accussative" dediacritic="مستحببا" number="single" sex="male" value="مُسْتَحْبِبًا"/>
+              <term case="accussative" dediacritic="مستحببة" number="single" sex="female" value="مُسْتَحْبِبَةً"/>
+              <term case="accussative" dediacritic="مستحببين" number="dual" sex="male" value="مُسْتَحْبِبَيْنِ"/>
+              <term case="accussative" dediacritic="مستحببتين" number="dual" sex="female" value="مُسْتَحْبِبَتَيْنِ"/>
+              <term case="accussative" dediacritic="مستحببين" number="plural" sex="male" value="مُسْتَحْبِبِينَ"/>
+              <term case="accussative" dediacritic="مستحببات" number="plural" sex="female" value="مُسْتَحْبِبَاتٍ"/>
+              <term case="jussitive" dediacritic="مستحبب" number="single" sex="male" value="مُسْتَحْبِبٍ"/>
+              <term case="jussitive" dediacritic="مستحببة" number="single" sex="female" value="مُسْتَحْبِبَةٍ"/>
+              <term case="jussitive" dediacritic="مستحببين" number="dual" sex="male" value="مُسْتَحْبِبَيْنِ"/>
+              <term case="jussitive" dediacritic="مستحببتين" number="dual" sex="female" value="مُسْتَحْبِبَتَيْنِ"/>
+              <term case="jussitive" dediacritic="مستحببين" number="plural" sex="male" value="مُسْتَحْبِبِينَ"/>
+              <term case="jussitive" dediacritic="مستحببات" number="plural" sex="female" value="مُسْتَحْبِبَاتٍ"/>
+            </indefinite>
+          </subject>
+          <object>
+            <indefinite>
+              <term case="nominative" dediacritic="مستحبب" number="single" sex="male" value="مُسْتَحْبَبٌ"/>
+              <term case="nominative" dediacritic="مستحببة" number="single" sex="female" value="مُسْتَحْبَبَةٌ"/>
+              <term case="nominative" dediacritic="مستحببان" number="dual" sex="male" value="مُسْتَحْبَبَانِ"/>
+              <term case="nominative" dediacritic="مستحببتان" number="dual" sex="female" value="مُسْتَحْبَبَتَانِ"/>
+              <term case="nominative" dediacritic="مستحببون" number="plural" sex="male" value="مُسْتَحْبَبُونَ"/>
+              <term case="nominative" dediacritic="مستحببات" number="plural" sex="female" value="مُسْتَحْبَبَاتٌ"/>
+              <term case="accussative" dediacritic="مستحببا" number="single" sex="male" value="مُسْتَحْبَبًا"/>
+              <term case="accussative" dediacritic="مستحببة" number="single" sex="female" value="مُسْتَحْبَبَةً"/>
+              <term case="accussative" dediacritic="مستحببين" number="dual" sex="male" value="مُسْتَحْبَبَيْنِ"/>
+              <term case="accussative" dediacritic="مستحببتين" number="dual" sex="female" value="مُسْتَحْبَبَتَيْنِ"/>
+              <term case="accussative" dediacritic="مستحببين" number="plural" sex="male" value="مُسْتَحْبَبِينَ"/>
+              <term case="accussative" dediacritic="مستحببات" number="plural" sex="female" value="مُسْتَحْبَبَاتٍ"/>
+              <term case="jussitive" dediacritic="مستحبب" number="single" sex="male" value="مُسْتَحْبَبٍ"/>
+              <term case="jussitive" dediacritic="مستحببة" number="single" sex="female" value="مُسْتَحْبَبَةٍ"/>
+              <term case="jussitive" dediacritic="مستحببين" number="dual" sex="male" value="مُسْتَحْبَبَيْنِ"/>
+              <term case="jussitive" dediacritic="مستحببتين" number="dual" sex="female" value="مُسْتَحْبَبَتَيْنِ"/>
+              <term case="jussitive" dediacritic="مستحببين" number="plural" sex="male" value="مُسْتَحْبَبِينَ"/>
+              <term case="jussitive" dediacritic="مستحببات" number="plural" sex="female" value="مُسْتَحْبَبَاتٍ"/>
+            </indefinite>
+          </object>
+          <timePlace>
+            <indefinite>
+              <term case="nominative" dediacritic="مستحبب" number="single" sex="male" value="مُسْتَحْبَبٌ"/>
+              <term case="nominative" dediacritic="مستحببان" number="dual" sex="male" value="مُسْتَحْبَبَانِ"/>
+              <term case="accussative" dediacritic="مستحببا" number="single" sex="male" value="مُسْتَحْبَبًا"/>
+              <term case="accussative" dediacritic="مستحببين" number="dual" sex="male" value="مُسْتَحْبَبَيْنِ"/>
+              <term case="jussitive" dediacritic="مستحبب" number="single" sex="male" value="مُسْتَحْبَبٍ"/>
+              <term case="jussitive" dediacritic="مستحببين" number="dual" sex="male" value="مُسْتَحْبَبَيْنِ"/>
+            </indefinite>
+          </timePlace>
+        </nounDerviation>
+        <gerund>
+          <meem>
+            <indefinite>
+              <term case="nominative" dediacritic="مستحبب" number="single" sex="male" value="مُسْتَحْبَبٌ"/>
+              <term case="accussative" dediacritic="مستحببا" number="single" sex="male" value="مُسْتَحْبَبًا"/>
+              <term case="jussitive" dediacritic="مستحبب" number="single" sex="male" value="مُسْتَحْبَبٍ"/>
+            </indefinite>
+          </meem>
+        </gerund>
+      </conjuagtion>
+    </augmented>
+  </root>
+</roots>
